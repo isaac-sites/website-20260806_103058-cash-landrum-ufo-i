@@ -1,0 +1,5083 @@
+{
+  "generated_at_utc": "2026-08-06T09:16:39.947388Z",
+  "mode": "warn_only",
+  "summary": {
+    "pages_with_stage2_metadata": 211,
+    "pages_review_recommended": 3,
+    "warning_reason_counts": {
+      "single_reader_role": 3
+    }
+  },
+  "pages": [
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_aircraft_misidentifi_a1d4cf_aircraft_exhaust_fla_005081",
+      "title": "Was the Cash Landrum Flame Really Aircraft Exhaust?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "quadrant",
+        "versus"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Atmospheric Effects on Jet Exhaust",
+        "Cash–Landrum Incident Exhaust Hypothesis",
+        "Aircraft vs. Reported Propulsion"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.125,
+      "review_recommended": true,
+      "warning_reasons": [
+        "single_reader_role"
+      ]
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_military_ownership_d_e558cd_missing_flight_recor_6747e9",
+      "title": "How Much Do Missing Flight Records Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "comparison_columns",
+        "quadrant"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Administrative Records for Helicopter Operations",
+        "Evidence vs. Possible Explanations",
+        "Factors Weakening the Scheduled Mission Claim"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.0,
+      "review_recommended": true,
+      "warning_reasons": [
+        "single_reader_role"
+      ]
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_walker_helicopter_si_ac910f_walker_helicopter_co_4b6c43",
+      "title": "Twelve or Twenty Three Helicopters?",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Cash–Landrum Helicopter Count Discrepancies",
+        "Factors Affecting Nighttime Aerial Counts",
+        "Hypotheses for Helicopter Count Variance"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.286,
+      "review_recommended": true,
+      "warning_reasons": [
+        "single_reader_role"
+      ]
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45",
+      "title": "Why the Cash Landrum Case Still Defies Resolution",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Cash–Landrum Incident Chronology",
+        "Interpretations of the Texas Encounter",
+        "Evidence Gaps in the Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_administrative_claim_4bc9ad",
+      "title": "How the Compensation Claim Reached Federal Court",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cash–Landrum Administrative Claim Time line",
+        "Administrative vs. Judicial Frameworks",
+        "Bergstrom Base Legal Elements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_administrative_claim_4bc9ad_air_force_denial_red_8a381f",
+      "title": "What the Air Force Denials Left Unexplained",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Cash–Landrum Administrative Claim Time line",
+        "Public Records vs. Internal Deliberations",
+        "Limits of the Cash–Landrum File"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_administrative_claim_4bc9ad_bergstrom_legal_inte_2ebb71",
+      "title": "What Happened Inside the Bergstrom Legal Office",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Bergstrom Air Force Base Claims Process",
+        "Administrative vs. Investigative Scope",
+        "Bergstrom Interview Fact Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_administrative_claim_4bc9ad_claim_filing_delay_bf1d3e",
+      "title": "Why the Claims Waited Nearly Two Years",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Cash–Landrum Claim Filing Time line",
+        "Interpretations of Filing Delay",
+        "FTCA Claim Requirements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_administrative_claim_4bc9ad_claims_path_to_feder_8ae34e",
+      "title": "How the Failed Claims Opened the Courthouse Door",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "FTCA Administrative Exhaustion Key Stages",
+        "Administrative vs. Judicial Outcomes",
+        "Evidence in the Administrative Record"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_administrative_claim_4bc9ad_helicopter_attributi_af9912",
+      "title": "Why the Helicopters Did Not Prove Government Control",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Cash–Landrum Legal Evidence Gap",
+        "Witness Credibility vs. Legal Proof",
+        "Missing Evidence for Federal Liability"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_administrative_claim_4bc9ad_senator_claims_refer_1c28f8",
+      "title": "What the Senators Actually Did for Cash",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cash–Landrum Administrative Claim Path",
+        "Congressional Role vs. Legal Action",
+        "Bergstrom Air Force Base Procedures"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_aircraft_misidentifi_a1d4cf",
+      "title": "Could Ordinary Aircraft Have Created the Encounter?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cash–Landrum Perceptual Grouping Key Stages",
+        "Cash–Landrum Conventional Explanations",
+        "Cash–Landrum Evidence Gaps"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_aircraft_misidentifi_a1d4cf_dayton_searchlight_t_3e9512",
+      "title": "Did a Helicopter Searchlight Create the Bright Object?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Cash–Landrum Incident Interpretations",
+        "Dayton Witness Testimony Details",
+        "Searchlight Theory Mechanics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_aircraft_misidentifi_a1d4cf_head_on_hovering_lig_6a72fe",
+      "title": "Could a Head On Aircraft Look Like It Hovered?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Cash–Landrum Witness Perception Key Stages",
+        "Aviation Explanation vs. Reported Features",
+        "FAA Night Vision Limitations"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_aircraft_misidentifi_a1d4cf_helicopter_noise_cou_81f171",
+      "title": "Could Twelve Helicopters Sound Like Many More?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Acoustic Distortion in Wooded Terrain",
+        "Cash Landrum Helicopter Escort Theories",
+        "Nighttime Perception Limitations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_aircraft_misidentifi_a1d4cf_multiple_aircraft_sc_c6fa94",
+      "title": "Did Several Aircraft Become One UFO Story?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Compound Event Reconstruction Key Stages",
+        "Cash Landrum Interpretations Comparison",
+        "Perceptual Mechanisms in Night Flight"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_aircraft_misidentifi_a1d4cf_night_distance_error_d54893",
+      "title": "How Far Away Was the Cash Landrum Light?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Witness Perception Key Stages on FM 1485",
+        "Visual Distance Cue Degradation Factors",
+        "Mechanisms of Perceived Motion Change"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_bergstrom_recorded_i_ced9f1",
+      "title": "What the Air Force Interview Actually Recorded",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Bergstrom Air Force Base Interview Time line",
+        "Witness Claims vs. Official Records",
+        "Bergstrom Interview Evidence Scope"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_bergstrom_recorded_i_ced9f1_bergstrom_chinook_id_99c973",
+      "title": "How Firm Was the Chinook Identification at Bergstrom?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Bergstrom AFB Interview Methodology",
+        "Tandem Rotor Identification Limits",
+        "Unresolved Helicopter Variables"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_bergstrom_recorded_i_ced9f1_bergstrom_claims_mee_6d962a",
+      "title": "Why Was the Bergstrom Interview About Compensation?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Witness Path to Bergstrom Legal Office",
+        "Claims Office vs. UFO Investigation",
+        "Witness Medical and Financial Data"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_bergstrom_recorded_i_ced9f1_bergstrom_location_m_a72c29",
+      "title": "Why Could Not Bergstrom Fix the Exact Location?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "list_butterfly"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Bergstrom Air Force Base Interview Process",
+        "Interview Record vs. Later Claims",
+        "Geographic Markers of FM 1485"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_bergstrom_recorded_i_ced9f1_bergstrom_time_estim_42c485",
+      "title": "Was the Encounter Time Ever Precisely Established?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Cash–Landrum Incident Key Stages",
+        "Bergstrom Transcript vs. Later Summaries",
+        "Bergstrom Interview Key Data Points"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_bergstrom_recorded_i_ced9f1_colby_bergstrom_test_5c96f8",
+      "title": "How Independent Was Colby's Recorded Testimony?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Time line of the Cash Landrum Narrative",
+        "Interpretations of Colby's Testimony",
+        "Bergstrom Interview Content Scope"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_bergstrom_recorded_i_ced9f1_landrum_air_force_co_89da4a",
+      "title": "Did Landrum Say the Helicopters Were Air Force?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "process_pipeline",
+        "comparison_columns"
+      ],
+      "roles": [
+        "summary",
+        "process",
+        "comparison"
+      ],
+      "titles": [
+        "Witness Perspectives on Helicopter Ownership",
+        "Landrum's Identification Logic Flow",
+        "Levels of Witness Observation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db",
+      "title": "Why Betty Cash Became the Case's Central Witness",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Betty Cash Medical Key Stages 1980 1981",
+        "Radiation Sickness Medical Hypotheses",
+        "Cash Landrum Incident Evidence Types"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db_cash_hair_skin_injur_484af4",
+      "title": "What Happened to Betty Cash's Hair and Skin?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Betty Cash Medical Progression Time line",
+        "Interpretations of Betty Cash Injuries",
+        "Evidence in the Cash Landrum Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db_cash_hospital_timeli_6aa80c",
+      "title": "What Do Betty Cash's Hospital Records Actually Show?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Betty Cash Hospital Admission Time line",
+        "Medical Record vs. Popular Narrative",
+        "Documented Symptoms of Betty Cash"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db_cash_long_illness_ca_c0dda9",
+      "title": "How Much of Betty Cash's Later Illness Can Be Linked?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Betty Cash Medical Progression Time line",
+        "Causation Debate in Cash Landrum Case",
+        "Documented Symptoms of Betty Cash"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db_cash_overheated_car_b61eeb",
+      "title": "Did the Object Really Overheat Betty Cash's Car?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Betty Cash's Door Handle Experience",
+        "Testimony vs. Verified Physical Evidence",
+        "Missing Forensic Data Points"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db_cash_radiation_claim_cc5889",
+      "title": "Was Betty Cash's Illness Really Radiation Sickness?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Betty Cash Symptom Progression",
+        "Radiation Hypothesis vs. Medical Evidence",
+        "Acute Radiation Syndrome Requirements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db_cash_testimony_relia_d36ed6",
+      "title": "How Reliable Was Betty Cash's Roadside Account?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Betty Cash Testimony Key Stages",
+        "Cash Testimony Evidence Analysis",
+        "Factors Shaping Witness Memory"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+      "title": "Could the Reported Heat Have Left Physical Proof?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Cash–Landrum Vehicle Heat Key Stages",
+        "Dashboard Impression Interpretations",
+        "Verification Gaps in Cash Landrum Evidence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231_cabin_heat_ac_claim_4ee17d",
+      "title": "How Hot Did the Cutlass Cabin Become?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Heat Transfer in the Oldsmobile Cutlass",
+        "Subjective vs. Objective Heat Evidence",
+        "Verifiable Evidence in the Cash Landrum Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231_car_inspection_delay_c7094f",
+      "title": "How the Eight Month Delay Weakened the Car Evidence",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "process_steps"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "Cash–Landrum Vehicle Evidence Time line",
+        "Immediate vs. Delayed Forensic Analysis",
+        "Reported Damage to Oldsmobile Cutlass"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231_dashboard_handprint_d9072d",
+      "title": "Did Heat Really Mold the Dashboard Handprints?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of the Dashboard Melting Claim",
+        "Alternative Explanations for Dashboard Marks",
+        "Missing Forensic Investigation Data"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231_landrum_arm_bodywork_3d6fdd",
+      "title": "Did the Car Body Burn Vickie Landrum?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Vickie Landrum's Arm Burn Key Stages",
+        "Interpretations of the Contact Burn",
+        "Variables Influencing Contact Burns"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231_missing_heat_damage_309aa8",
+      "title": "Where Was the Rest of the Heat Damage?",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "venn",
+        "myth_facts"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Vehicle Materials and Thermal Responses",
+        "Interpretations of the Dashboard Impression",
+        "Expected vs. Documented Heat Damage"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231_radiant_heat_windscr_0ab9ff",
+      "title": "Could Radiant Heat Reach Through the Windscreen?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "quadrant",
+        "timeline_snake"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Radiant Heat Transfer in the Cash–Landrum Case",
+        "Windscreen Thermal Interaction Variables",
+        "Data Gaps in Cash–Landrum Analysis"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_cash_hospital_record_019b0f",
+      "title": "What Do Betty Cash's Medical Records Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Betty Cash Hospital Admission Time line",
+        "Medical Evidence vs. Retrospective Claims",
+        "Clinical Findings in Betty Cash Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_cash_hospital_record_019b0f_cash_admission_vital_3e2a3e",
+      "title": "How Sick Did Betty Cash Appear on Admission?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Betty Cash Hospital Admission Time line",
+        "Interpretations of Cash's Clinical State",
+        "Documented Facial and Scalp Injuries"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_cash_hospital_record_019b0f_cash_alopecia_areata_12a441",
+      "title": "Was Betty Cash's Hair Loss Caused by Radiation?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Betty Cash Medical Key Stages",
+        "Hair Loss Mechanism Comparison",
+        "Evidence in Cash Medical Record"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_cash_hospital_record_019b0f_cash_cellulitis_diag_433a26",
+      "title": "What Did Betty Cash's Doctors Actually Diagnose?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Betty Cash Hospital Admission Key Stages",
+        "Interpretations of the 1981 Diagnosis",
+        "Clinical Components of Cellulitis"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_cash_hospital_record_019b0f_cash_findings_vs_lab_bb1704",
+      "title": "When Did Illness Become 'Radiation Sickness'?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Betty Cash Clinical Progression",
+        "Medical Interpretation vs. Narrative",
+        "Acute Radiation Syndrome Criteria"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_cash_hospital_record_019b0f_cash_local_vs_whole_713796",
+      "title": "Could Local Radiation Fit Betty Cash's Symptoms?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "list_vertical",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Local vs. Whole Body Radiation Injury",
+        "Betty Cash Clinical Symptom Analysis",
+        "Radiation Dosimetry Reconstruction Barriers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_cash_hospital_record_019b0f_cash_missing_radiati_e3dde8",
+      "title": "What Medical Evidence Would Have Confirmed Radiation?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "versus",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Radiation Dose Reconstruction Workflow",
+        "Evidence Gaps in Cash Landrum Case",
+        "Standard Radiation Diagnostic Tools"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_chinook_formation_cl_8c8e62",
+      "title": "Were Dozens of Chinooks Really Following the Object?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cash–Landrum Incident Evidence Gap",
+        "CH 47 Identification Discrepancies",
+        "Logistical Barriers to Mass Formation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_chinook_formation_cl_8c8e62_air_force_marking_co_f41ff9",
+      "title": "Why Did Cash Recall Air Force Markings?",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "comparison_columns",
+        "timeline_snake"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Witness Testimony vs. Military Records",
+        "Potential Explanations for Marking Mismatch",
+        "Cash Landrum Helicopter Evidence Chain"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_chinook_formation_cl_8c8e62_army_helicopter_inqu_afea59",
+      "title": "How Far Did the Army Inquiry Really Go?",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "comparison_columns",
+        "process_steps"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Army Aviation Organizations Contacted",
+        "Interpretations of the IG Memorandum",
+        "Army Inspector General Inquiry Steps"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_chinook_formation_cl_8c8e62_chinook_identificati_14d4b6",
+      "title": "Were the Cash Landrum Helicopters Really Chinooks?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Cash–Landrum Incident Evidence Evolution",
+        "CH 47 Chinook Identification Challenges",
+        "Factors Limiting Precise Aircraft Identification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_chinook_formation_cl_8c8e62_helicopter_count_rel_6f355e",
+      "title": "Could the Witnesses Really Count 23 Helicopters?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "timeline_horizon",
+        "lighthouse"
+      ],
+      "roles": [
+        "summary",
+        "chronology",
+        "other"
+      ],
+      "titles": [
+        "Cash Landrum Helicopter Count Interpretations",
+        "Army Investigation of Helicopter Claims",
+        "Factors Affecting Eyewitness Accuracy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_chinook_formation_cl_8c8e62_large_formation_miss_172d68",
+      "title": "Could Such a Huge Helicopter Mission Vanish?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Logistics of a Chinook Formation",
+        "Evidence Gaps in Cash Landrum Case",
+        "Operational Footprint of 20+ Helicopters"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_chinook_formation_cl_8c8e62_walker_helicopter_si_ac910f",
+      "title": "Did the Walker Sighting Confirm the Formation?",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "list_vertical",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Cash–Landrum vs. Walker Sighting",
+        "Walker Testimony Corroboration Limits",
+        "Walker Sighting Data Points"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5",
+      "title": "What Did Seven Year Old Colby Remember?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Colby Landrum's Witness Experience Time line",
+        "Factors Influencing Colby's Testimony",
+        "Reported Symptoms and Observations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5_colby_car_view_f9c0f2",
+      "title": "What Could Colby Actually See From the Car?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Colby Landrum's Observational Constraints",
+        "Witness Perspective Comparison: Cash vs Landrum",
+        "Factors Shaping Colby's Memory"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5_colby_chinook_fear_b99427",
+      "title": "Why Did a Chinook Frighten Colby So Much?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Colby Landrum's Emotional Time line",
+        "Interpretations of the Chinook Reaction",
+        "Analysis of the Chinook Evidence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5_colby_diamond_memory_63666d",
+      "title": "Did Colby See the Diamond Shape First?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of the Diamond Shape Description",
+        "Interpretations of Colby's Early Testimony",
+        "Witness Variations in Early Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5_colby_family_memory_c845c6",
+      "title": "How Family Retellings May Have Shaped Colby's Memory",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Memory Evolution in the Cash Landrum Case",
+        "Psychological Mechanisms of Co Witness Discussion",
+        "Evidence of Independent vs. Shared Recall"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5_colby_health_claims_213e8d",
+      "title": "What Do Colby's Reported Symptoms Really Show?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Colby Landrum's Reported Symptom Progression",
+        "Reported Claims vs. Clinical Evidence",
+        "Factors Limiting Causation Conclusions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5_colby_later_testimon_468a43",
+      "title": "How Much Weight Should Colby's Adult Memory Carry?",
+      "infographic_count": 3,
+      "templates": [
+        "tug_of_war",
+        "structure_taxonomy",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "other",
+        "taxonomy",
+        "summary"
+      ],
+      "titles": [
+        "Colby Landrum Memory Evolution",
+        "Persistent Cash Landrum Visuals",
+        "Historical Analysis of Testimony"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_court_dismissal_mean_d82e1e",
+      "title": "What the 1986 Dismissal Actually Decided",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Legal Requirements for Federal Liability",
+        "Plaintiff Claims vs. Court Evidence",
+        "Judicial Rules for Case Dismissal"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_court_dismissal_mean_d82e1e_dismissal_not_decide_9e1e87",
+      "title": "What the Judge Never Ruled About the Encounter",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Federal Tort Claims Act Legal Path",
+        "Judicial Scope vs. Factual Mystery",
+        "Unresolved Questions of the Encounter"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_court_dismissal_mean_d82e1e_ftca_attribution_bar_ec3aff",
+      "title": "Why the Tort Claims Act Could Not Save the Lawsuit",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "FTCA Legal Claim Requirements",
+        "Cash Landrum Case Legal Analysis",
+        "Missing Evidence in Cash Landrum"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_court_dismissal_mean_d82e1e_government_sworn_den_3e96e5",
+      "title": "How Sworn Government Denials Changed the Case",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "list_vertical",
+        "comparison_columns"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Cash–Landrum Litigation Evidentiary Flow",
+        "Federal Agencies Denying Ownership",
+        "Plaintiff Evidence vs. Legal Requirements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_court_dismissal_mean_d82e1e_helicopters_federal_2d778f",
+      "title": "Why the Helicopters Could Not Prove Government Control",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Missing Evidence in Cash–Landrum Case",
+        "Witness Testimony vs. Legal Proof",
+        "Agency Responses to Helicopter Claims"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_court_dismissal_mean_d82e1e_military_inquiries_n_0e790e",
+      "title": "Why Military Investigations Still Left No Responsible Unit",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Army Inspector General Investigation Steps",
+        "Interpretations of Missing Helicopter Records",
+        "Evidence Required for Federal Liability"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_court_dismissal_mean_d82e1e_rules_12_56_dismissa_0ea56e",
+      "title": "Why the Case Ended Before a Full Trial",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Procedural Hurdles in Cash–Landrum Litigation",
+        "Court Scope: Fact vs. Procedure",
+        "Federal Rules Applied by Judge Sterling"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7",
+      "title": "What Was the Diamond Shaped Object Supposed to Do?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Cash–Landrum Incident Witness Evolution",
+        "Interpretations of Vertical Pulsing",
+        "Core Features of the Cash Landrum Craft"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7_downward_flame_limit_e3b4fd",
+      "title": "Was the Fiery Plume Really a Rocket Exhaust?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Witness Observations of the Cash–Landrum Flame",
+        "Interpretations of the Cash–Landrum Flame",
+        "Limitations of the Cash–Landrum Testimony"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7_glare_apparent_verti_37e9c4",
+      "title": "Did the Object Move, or Did the Light Change?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Perceptual Mechanics of the Cash Landrum Encounter",
+        "Motion Interpretations of the Diamond Object",
+        "Factors Influencing Night Vision Accuracy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7_object_size_distance_642e1c",
+      "title": "How Large and Close Was the Roadside Object?",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "myth_facts",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Cash–Landrum Distance Estimates",
+        "Qualitative Scale of the Craft",
+        "Factors Affecting Distance Perception"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7_surface_detail_uncer_e61272",
+      "title": "Could Witnesses See More Than a Bright Silhouette?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cash–Landrum Witness Testimony Evolution",
+        "Witness Testimony vs. Artistic Renderings",
+        "Visual Perception Limits in Huffman, TX"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7_treeline_position_an_cc7ad1",
+      "title": "Why the Treeline Made the Object Seem So Near",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Witness Perception of the Cash Landrum Encounter",
+        "Perceptual Cues vs. Physical Evidence",
+        "Sensory Factors in the Cash Landrum Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7_upright_diamond_reco_4ed211",
+      "title": "What Did the Cash Landrum Diamond Actually Look Like?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Cash–Landrum UFO Testimony Evolution",
+        "Geometric Interpretations of the Craft",
+        "Verified Cash–Landrum Physical Features"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_federal_lawsuit_stra_9deab6",
+      "title": "What Did the Witnesses Need to Prove in Court?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "FTCA Litigation Chain of Proof",
+        "Evidence vs. Hypothesis in Cash Landrum",
+        "Legal Barriers to FTCA Liability"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_federal_lawsuit_stra_9deab6_air_force_claim_deni_704ddd",
+      "title": "What the Air Force Denial Meant for the Lawsuit",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "FTCA Administrative Claim Pathway",
+        "Air Force Denial Scope Comparison",
+        "Litigation Strategy Focus Areas"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_federal_lawsuit_stra_9deab6_discretionary_functi_6a5ee4",
+      "title": "Could Government Immunity Have Blocked the Claim Anyway?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "tree_roots"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "FTCA Discretionary Function Legal Analysis",
+        "Policy vs. Operational Negligence",
+        "Evidence Barriers in Cash Landrum Litigation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_federal_lawsuit_stra_9deab6_evidence_to_survive_00971f",
+      "title": "What Proof Could Have Saved the Cash Landrum Case?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "structure_petal"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Legal Hurdles in Cash–Landrum Litigation",
+        "Evidence Types for Federal Liability",
+        "Corroborating Evidence Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_federal_lawsuit_stra_9deab6_helicopters_federal_2d778f",
+      "title": "Why the Helicopters Could Not Prove Federal Control",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cash–Landrum FTCA Legal Gap",
+        "Evidence vs. Plausibility Standards",
+        "Missing Federal Identification Markers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_federal_lawsuit_stra_9deab6_medical_records_caus_9afb1b",
+      "title": "Why Real Illness Was Not Enough to Prove Causation",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "FTCA Legal Causation Chain",
+        "Medical vs. Legal Evidence",
+        "Missing Forensic Evidence Types"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_federal_lawsuit_stra_9deab6_ownership_not_neglig_07b083",
+      "title": "Why Army Ownership Would Not Automatically Mean Fault",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "FTCA Liability Determination Key Stages",
+        "Ownership vs. Negligence Distinction",
+        "Alternative Explanations for Military Presence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+      "title": "Did the Flame Explain the Object's Strange Motion?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cash–Landrum Flame and Altitude Key Stages",
+        "Alternative Explanations for the Flame Plume",
+        "Evidence Constraints of the Cash–Landrum Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e_bergstrom_flame_acco_38bc97",
+      "title": "What the Bergstrom Interview Actually Says About the Flame",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "hub"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Vickie Landrum's Observed Flight Cycle",
+        "Bergstrom Interview Evidential Limits",
+        "Betty Cash's Sensory Observations"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e_broad_flame_or_jets_98cc51",
+      "title": "Was It One Flame or Several Jets?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "list_vertical",
+        "process_pipeline"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "Cash Landrum Propulsion Interpretations",
+        "Landrum Witness Observation Limits",
+        "Evolution of Cash Landrum Imagery"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e_glare_perspective_th_65786e",
+      "title": "Could Glare Have Made the Flame Seem Stronger?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Visual Perception of the Cash–Landrum Flame",
+        "Interpretations of the Cash–Landrum Ascent",
+        "Factors Complicating Nighttime Distance Perception"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e_missing_plume_ground_6007c9",
+      "title": "Where Was the Damage From a Powerful Downward Plume?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "tree_map",
+        "timeline_snake"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "chronology"
+      ],
+      "titles": [
+        "Expected vs. Observed Ground Effects",
+        "Witnessed Thermal Effects on Vehicle",
+        "Factors Limiting Physical Evidence Recovery"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e_plume_lift_claim_37217d",
+      "title": "Could the Reported Flame Really Hold It Up?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Cash–Landrum Flame Movement Key Stages",
+        "Visual Observation vs Engineering Proof",
+        "Missing Variables for Thrust Calculation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e_uncertain_site_plume_407be3",
+      "title": "How the Uncertain Roadside Location Weakened the Plume Case",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Factors Limiting Site Relocation",
+        "Potential Field Measurements at Site",
+        "Impact of Site Uncertainty"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+      "title": "What Does the Hair Loss Record Really Show?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Betty Cash Medical Key Stages",
+        "Mechanisms of Hair Loss",
+        "Evidence Constraints in Cash Landrum"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba_alopecia_areata_expl_8d0f57",
+      "title": "Could Alopecia Areata Explain Cash's Hair Loss?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "tree_map",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "summary"
+      ],
+      "titles": [
+        "Alopecia Areata vs Radiation Injury",
+        "Clinical Markers of Alopecia Areata",
+        "Evidence Needed for Cash Landrum Verification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba_cash_hair_loss_timel_5df475",
+      "title": "When Did Betty Cash Actually Start Losing Hair?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Betty Cash Medical Key Stages 1980 1981",
+        "Cash Landrum Narrative Discrepancies",
+        "Factors Influencing Narrative Compression"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba_cash_hair_record_lim_e3ed7a",
+      "title": "How Strong Is the Medical Record on Hair Loss?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Betty Cash Medical Progression Time line",
+        "Interpretations of Cash Medical Records",
+        "Missing Dermatology Evidence Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba_hair_loss_pattern_cl_1b4153",
+      "title": "What Could the Pattern of Hair Loss Reveal?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Clinical Assessment of Radiation Injury",
+        "Radiation vs. Non Radiation Alopecia",
+        "Cutaneous Radiation Injury Indicators"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba_immediate_hair_loss_657a87",
+      "title": "How Delayed Hair Loss Became an Instant Symptom",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Betty Cash Medical Key Stages",
+        "Narrative vs. Medical Reality",
+        "Radiation Injury Indicators"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba_radiation_epilation_b057f8",
+      "title": "Does Cash's Hair Loss Fit Radiation Epilation?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Radiation Epilation Biological Time line",
+        "Local Radiation Dose Thresholds",
+        "Evidence Analysis of Cash's Alopecia"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+      "title": "Were the Injuries Caused by Heat Instead?",
+      "infographic_count": 3,
+      "templates": [
+        "tug_of_war",
+        "timeline_vertical",
+        "venn"
+      ],
+      "roles": [
+        "other",
+        "chronology",
+        "comparison"
+      ],
+      "titles": [
+        "Cash–Landrum Encounter Symptom Overlap",
+        "Radiation Triage Investigation Protocol",
+        "Cash–Landrum Medical Interpretations"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0_chromosome_test_miss_6a6543",
+      "title": "Could Chromosome Tests Have Confirmed a Radiation Dose?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Chromosome Biodosimetry Analysis Process",
+        "Radiation Evidence in Cash–Landrum Case",
+        "Requirements for Reliable Biodosimetry"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0_delayed_radiation_sk_6353ce",
+      "title": "What Skin Timeline Would Radiation Injury Produce?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "venn",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Cutaneous Radiation Injury Progression",
+        "Thermal Burn vs Radiation Injury",
+        "Diagnostic Criteria for Radiation Injury"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0_immediate_pain_therm_0faea9",
+      "title": "Does Immediate Pain Point More Strongly to Heat?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "process_steps",
+        "quadrant"
+      ],
+      "roles": [
+        "comparison",
+        "process",
+        "comparison"
+      ],
+      "titles": [
+        "Thermal vs. Radiation Injury Mechanics",
+        "Cash Landrum Witness Experience Time line",
+        "Interpreting Roadside Injury Symptoms"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0_radiation_blood_coun_0b73f1",
+      "title": "Would Severe Radiation Sickness Alter the Blood?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "timeline_snake"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "ARS Blood Cell Depletion Key Stages",
+        "Evidence for Cash–Landrum Radiation Injury",
+        "CDC Radiation Monitoring Protocol"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0_symptom_overlap_not_32b7b0",
+      "title": "Why Symptoms Alone Cannot Prove Radiation Exposure",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "list_butterfly"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Clinical Radiation Diagnosis Workflow",
+        "Overlapping Symptoms in Cash Landrum Case",
+        "Alternative Causes for Reported Illnesses"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0_vehicle_clothing_sce_ad1774",
+      "title": "What Could the Car and Clothing Have Revealed?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Standard Radiation Emergency Procedures",
+        "Heat vs. Radiation Evidence Patterns",
+        "Physical Evidence Preservation Risks"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_helicopter_mission_l_4a4fa2",
+      "title": "What Would a 23 Helicopter Mission Require?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Logistics of a 23 Aircraft Mission",
+        "Interpretations of the Helicopter Count",
+        "Required Aviation Documentation Types"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_helicopter_mission_l_4a4fa2_chinook_fuel_footpri_af0365",
+      "title": "Could a 23 Chinook Fuel Operation Stay Hidden?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "rank_podium",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "data",
+        "taxonomy"
+      ],
+      "titles": [
+        "Logistics of a 23 Chinook Formation",
+        "CH 47 Fuel Consumption Metrics",
+        "Logistical Footprint of a Large Formation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_helicopter_mission_l_4a4fa2_helicopter_mission_r_cb22f7",
+      "title": "What Paper Trail Would 23 Helicopters Leave?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Military Aviation Documentation Lifecycle",
+        "Aircraft vs. Crew Record Systems",
+        "Logistical Evidence in Cash Landrum Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_helicopter_mission_l_4a4fa2_holiday_night_helico_1e820c",
+      "title": "Could a Holiday Emergency Mobilize 23 Helicopters?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mobilizing 23 Helicopters on Holiday",
+        "Holiday Emergency vs. Routine Flight",
+        "Indicators of Aviation Mobilization"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_helicopter_mission_l_4a4fa2_houston_chinook_avai_61a6a8",
+      "title": "Could Houston Area Units Field 23 Chinooks?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Houston Area Aviation Inventory 1980",
+        "Logistical Explanations for the Formation",
+        "Factors Inhibiting Local Formation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_helicopter_mission_l_4a4fa2_possible_departure_b_94eb0a",
+      "title": "Where Could the Helicopter Formation Have Launched?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "process_pipeline",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "comparison",
+        "process",
+        "summary"
+      ],
+      "titles": [
+        "Logistical Analysis of Candidate Bases",
+        "Fort Hood Mission Requirements",
+        "Multi Base Coordination Demands"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_helicopter_mission_l_4a4fa2_twenty_three_helicop_c4fccd",
+      "title": "How Many People Would 23 Helicopters Need?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "myth_facts",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "CH 47 Chinook Personnel Hierarchy",
+        "Cash Landrum Mission Visibility Scale",
+        "Logistics of a 23 Helicopter Formation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_lawsuit_proof_limits_46cf1c",
+      "title": "Did the Lawsuit Validate or Debunk the Sighting?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Cash–Landrum Legal Action Time line",
+        "Common Myths vs. Court Records",
+        "Plaintiffs' Legal Theory Components"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_lawsuit_proof_limits_46cf1c_agency_affidavits_li_27409b",
+      "title": "How Strong Were the Government's Sworn Denials?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "venn",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Agencies Providing Sworn Statements",
+        "Affidavit Scope vs. Unresolved Facts",
+        "Federal Tort Claims Act Litigation Path"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_lawsuit_proof_limits_46cf1c_complaint_claims_not_115830",
+      "title": "What the Cash Landrum Complaint Actually Proved",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cash–Landrum Federal Complaint Process",
+        "Complaint Facts vs. Judicial Findings",
+        "Unresolved Claims in Cash–Landrum Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_lawsuit_proof_limits_46cf1c_dismissal_order_scop_9ef796",
+      "title": "What the Judge Decided and Left Open",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Cash–Landrum Lawsuit Dismissal Scope",
+        "Misconceptions of the 1986 Order",
+        "Hierarchy of Legal Requirements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_lawsuit_proof_limits_46cf1c_federal_ownership_ga_0da1d5",
+      "title": "Why Federal Ownership Was Never Established",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "FTCA Liability Proof Key Stages",
+        "Resemblance vs. Identification Evidence",
+        "Missing Evidence in Cash Landrum Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_lawsuit_proof_limits_46cf1c_ftca_limits_ufo_myst_62341c",
+      "title": "Why a Tort Case Could Not Solve the Sighting",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "FTCA Liability Chain Requirements",
+        "Legal Inquiry vs. UFO Mystery",
+        "Missing Evidence in Cash Landrum Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_lawsuit_proof_limits_46cf1c_twenty_million_claim_bbc351",
+      "title": "What the $20 Million Figure Really Meant",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Civil Litigation Stages in Cash Landrum Case",
+        "Claimed Demands vs. Court Findings",
+        "Misconceptions of the $20 Million Figure"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+      "title": "Why the Car Could Have Been Crucial Evidence",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Preservation Failure of the Oldsmobile Cutlass",
+        "Dashboard Deformation Interpretations",
+        "Lost Forensic Opportunities in the Cutlass"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41_car_inspection_delay_c7094f",
+      "title": "What Was Lost During the 55 Day Delay?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Cash–Landrum Vehicle Inspection Time line",
+        "Factors Altering Cutlass Evidence",
+        "Unverifiable Claims Due to Delay"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41_continued_driving_ba_6a1c95",
+      "title": "How Everyday Driving Destroyed the Evidence Baseline",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Degradation of the 1980 Oldsmobile Cutlass",
+        "Trade offs in Vehicle Preservation",
+        "Factors Eroding Forensic Value"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41_dashboard_handprints_6e745a",
+      "title": "Did Heat Really Mold the Cutlass Dashboard?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Forensic Gaps in Dashboard Analysis",
+        "Dashboard Deformation Interpretations",
+        "Proposed Forensic Testing Methods"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41_missing_car_lab_resu_05901a",
+      "title": "Where Did the Cutlass Samples and Test Results Go?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Chain of Custody Requirements",
+        "Interpretations of Missing Records",
+        "Potential Forensic Tests for Cutlass Parts"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41_missing_preincident_8d8171",
+      "title": "Was the Cutlass Undamaged Before the Encounter?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Time line of the Cutlass Investigation",
+        "Unverified Cutlass Mechanical Failures",
+        "Missing Baseline Evidence Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41_negative_radiation_s_f2c963",
+      "title": "Did the Car's Radiation Test Settle Anything?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Time line of the Cash Landrum Vehicle Survey",
+        "Radiation Exposure vs. Contamination",
+        "Missing Data in the 1981 Survey"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_military_ownership_d_e558cd",
+      "title": "Did Official Denials Answer the Right Question?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "umbrella"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Cash–Landrum Investigation Procedural Flow",
+        "Interpretations of Official Denials",
+        "Army Aviation Organizational Channels"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_military_ownership_d_e558cd_agency_boundary_reso_158beb",
+      "title": "Could Every Agency Be Right and the Case Stay Unsolved?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Agency Investigation Flow for Cash Landrum",
+        "Concealment vs. Agency Gap Analysis",
+        "Missing Elements in Official Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_military_ownership_d_e558cd_air_force_denial_lim_e46897",
+      "title": "What Did the Air Force Actually Deny?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Bergstrom Air Force Base Claims Process",
+        "Air Force vs. Army Aviation Scope",
+        "Unresolved Questions in Cash Landrum Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_military_ownership_d_e558cd_army_chinook_operato_84e108",
+      "title": "How Widely Did the Army Search for Chinooks?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "list_vertical",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Army Inspector General Investigation Flow",
+        "Army Aviation Units Contacted in Texas",
+        "Scope of the DAIG Investigation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_military_ownership_d_e558cd_bergstrom_claims_int_299c0c",
+      "title": "Why Bergstrom Never Became a Full Investigation",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Bergstrom Air Force Base Claims Pathway",
+        "Administrative vs. Investigative Scope",
+        "Bergstrom Interview Fact Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_military_ownership_d_e558cd_ellington_chinook_ow_f32b25",
+      "title": "Why an Air Force Base Could Host Army Chinooks",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ellington Field Historical Evolution",
+        "Aircraft Ownership vs. Basing Logic",
+        "Ellington Field Military Tenants"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_missing_radiation_me_a2ab01",
+      "title": "Why Was No Radiation Trace Ever Confirmed?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Ideal Radiation Investigation Protocol",
+        "Competing Theories for Cash Landrum",
+        "Evidential Gaps in FM 1485"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_missing_radiation_me_a2ab01_betty_cash_coat_test_bcfee3",
+      "title": "What Betty Cash's Coat Might Have Revealed",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Radiological Clothing Survey Protocol",
+        "Betty Cash Coat Evidence Analysis",
+        "Chain of Custody Requirements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_missing_radiation_me_a2ab01_car_radioactive_cont_94146d",
+      "title": "Could the Car Have Preserved the Missing Radiation Clues?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Degradation of Oldsmobile Forensic Evidence",
+        "Vehicle vs. Human Evidence Retention",
+        "Oldsmobile Contamination Collection Points"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_missing_radiation_me_a2ab01_fm1485_site_survey_u_c072e5",
+      "title": "Did Investigators Survey the Wrong Stretch of Road?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Time line of the Cash–Landrum Survey",
+        "Survey Limitations vs. Evidence Strength",
+        "Requirements for Robust Roadside Surveys"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_missing_radiation_me_a2ab01_medical_radiation_do_baffc9",
+      "title": "Could Medical Testing Have Measured the Witnesses' Dose?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Early Blood Count Monitoring Protocol",
+        "Dosimetry Capabilities in Cash Landrum Case",
+        "Cytogenetic Biodosimetry Gold Standards"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_missing_radiation_me_a2ab01_missed_immediate_rad_2702a4",
+      "title": "Why the Best Radiation Evidence Was Never Collected",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Time line of the Cash–Landrum Incident",
+        "Radiation Hypothesis Evidence Gaps",
+        "Lost Evidence Categories in 1980"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_missing_radiation_me_a2ab01_negative_radiation_r_fb484c",
+      "title": "What Does a Negative Radiation Reading Really Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "venn",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Radiation Exposure vs. Contamination",
+        "Cash Landrum Site Survey Limitations",
+        "Factors Reducing Detectable Contamination"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_night_encounter_time_39b32d",
+      "title": "What Happened on the Road That Night?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "versus",
+        "grid_stats"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Cash–Landrum Incident Roadside Key Stages",
+        "Witness Perspectives in the Cash–Landrum Case",
+        "Technical Estimates of the Texas Encounter"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_night_encounter_time_39b32d_encounter_time_windo_54cd86",
+      "title": "How Long Did the Encounter Really Last?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cash–Landrum Encounter Key Stages",
+        "Duration Estimation Discrepancies",
+        "Evidence Limitations in Time line"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_night_encounter_time_39b32d_first_light_approach_cf659e",
+      "title": "When the Distant Light Became an Obstruction",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Cash–Landrum Approach Key Stages Time line",
+        "Interpretations of Diamond Shape Descriptions",
+        "Physical Characteristics of the Approach"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_night_encounter_time_39b32d_heat_sound_movement_2557cf",
+      "title": "Did the Object Rise and Fall in Bursts?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Cash–Landrum Propulsion Cycle Key Stages",
+        "Interpretations of Cash–Landrum Evidence",
+        "Witness Observations of the Encounter"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_night_encounter_time_39b32d_helicopter_formation_ee2d34",
+      "title": "When the Helicopters Entered the Encounter",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Cash–Landrum Helicopter Arrival Key Stages",
+        "Witness Interpretations of Helicopter Behavior",
+        "Evidence Challenges in the Cash–Landrum Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_night_encounter_time_39b32d_roadside_stop_engine_1b6dc0",
+      "title": "Why Did the Car Stop Working?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cash–Landrum Roadside Stop Key Stages",
+        "Interpretations of Vehicle Malfunction",
+        "Evidence Gaps in Cash–Landrum Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_night_encounter_time_39b32d_witness_positions_824c57",
+      "title": "Who Stood Where During the Closest Approach?",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "process_steps",
+        "tree_map"
+      ],
+      "roles": [
+        "comparison",
+        "process",
+        "taxonomy"
+      ],
+      "titles": [
+        "Witness Perspectives in Cash Landrum Case",
+        "Cash Landrum Incident Movement Key Stages",
+        "Factors Influencing Witness Testimony"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_radiation_sickness_c_5b60f3",
+      "title": "Was This Really a Case of Radiation Sickness?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Clinical Progression of Radiation Injury",
+        "Radiation vs. Alternative Medical Explanations",
+        "Missing Evidence in Cash Landrum Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_radiation_sickness_c_5b60f3_car_shielding_radiat_e8e7cb",
+      "title": "Could a Car Explain the Unequal Illnesses?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "structure_taxonomy",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "chronology"
+      ],
+      "titles": [
+        "Cash Landrum Radiation Exposure Hypotheses",
+        "Radiation Interaction with Vehicle Materials",
+        "Witness Positions in Cash Landrum Incident"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_radiation_sickness_c_5b60f3_chromosome_testing_c_3486e3",
+      "title": "Was There Ever a Confirming Biological Test?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Biological Dosimetry Analysis Workflow",
+        "Cash–Landrum Evidence Comparison",
+        "Missing Data in Cash–Landrum Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_radiation_sickness_c_5b60f3_missing_radiation_do_41a930",
+      "title": "Where Is the Dose That Proves Radiation Injury?",
+      "infographic_count": 3,
+      "templates": [
+        "grid_stats",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "other",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Radiation Dose Thresholds for ARS",
+        "ARS Diagnosis vs. Symptom Observation",
+        "Missing Evidence in Cash Landrum Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_radiation_sickness_c_5b60f3_roadside_radiation_s_3dedca",
+      "title": "Did Investigators Find Radiation at the Roadside?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Texas Department of Health Investigation Time line",
+        "Radiation Exposure Interpretations of Cash Landrum",
+        "Constraints of the Roadside Survey"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_radiation_sickness_c_5b60f3_serial_blood_counts_484353",
+      "title": "Could Blood Tests Have Confirmed Radiation Sickness?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Expected Blood Response to Radiation",
+        "Evidence Gaps in Cash Landrum Records",
+        "Standard Radiation Medicine Protocols"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_radiation_sickness_c_5b60f3_symptom_timing_vs_ar_382434",
+      "title": "Did the Illness Follow a Radiation Timeline?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Clinical Phases of Acute Radiation Syndrome",
+        "Cash Landrum Key Stages vs Radiation Biology",
+        "Diagnostic Indicators in Radiation Medicine"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_reported_medical_sym_9f9547",
+      "title": "What Symptoms Did the Three Witnesses Report?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Chronology of Cash Landrum Physical Symptoms",
+        "Witness Severity Comparison Table",
+        "Evidence Quality in Cash Landrum Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_reported_medical_sym_9f9547_gastrointestinal_deh_6c5ddd",
+      "title": "What Caused the Sudden Stomach Illness?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Betty Cash Symptom Progression",
+        "Medical Interpretations of Symptoms",
+        "Witness Accounts of Illness"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_reported_medical_sym_9f9547_medical_claims_evide_19ee6f",
+      "title": "Which Symptoms Have the Strongest Record?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cash–Landrum Incident Medical Time line",
+        "Documented Facts vs. Later Interpretations",
+        "Documented Symptoms of Betty Cash"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_reported_medical_sym_9f9547_symptom_timeline_aft_5c380f",
+      "title": "Did the Illness Unfold in Distinct Stages?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Cash–Landrum Incident Symptom Progression",
+        "Medical Evidence and Interpretations",
+        "Witness Specific Symptom Profiles"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_reported_medical_sym_9f9547_vickie_landrum_eye_s_6ad634",
+      "title": "What Happened to Vickie Landrum's Eyes?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Vickie Landrum Ocular Symptom Progression",
+        "Interpretations of Landrum Ocular Findings",
+        "Evidence Layers of the Cash Landrum Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_reported_medical_sym_9f9547_vickie_skin_nails_ha_2a4e6e",
+      "title": "How Severe Were Vickie Landrum's Injuries?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "comparison_columns"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Vickie Landrum's Reported Injury Progression",
+        "Observed vs. Recalled Injury Evidence",
+        "Interpretations of Landrum's Physical Symptoms"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_reported_medical_sym_9f9547_witness_symptom_seve_77f1bd",
+      "title": "Why Were Their Illnesses So Different?",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Witness Symptom Profiles in Cash–Landrum Case",
+        "Theories for Unequal Symptom Severity",
+        "Evidence Limitations in the Cash–Landrum Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_roadside_site_eviden_731212",
+      "title": "What Could the Texas Roadside Have Revealed?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "FM 1485 Site Investigation Time line",
+        "Environmental Evidence Interpretations",
+        "Factors Limiting Site Reconstruction"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_roadside_site_eviden_731212_fm1485_resurfacing_c_238e75",
+      "title": "Was the Road Really Repaved to Hide Evidence?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "FM 1485 Road Maintenance Chronology",
+        "FM 1485 Pavement Evidence Claims",
+        "Evidence Against Immediate Cover Up"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_roadside_site_eviden_731212_fm1485_road_geometry_2f4479",
+      "title": "How the Road Could Make a Light Seem Closer",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Perceptual Mechanics of FM 1485 Curves",
+        "Geometry vs. Physical Evidence Limits",
+        "Nighttime Perception Factors on FM 1485"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_roadside_site_eviden_731212_fm1485_stop_site_unc_3bbfe0",
+      "title": "Why the FM 1485 Stop Site Stayed Uncertain",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "umbrella"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Time line of the Cash Landrum Investigation",
+        "Discrepancies in the FM 1485 Stop Site",
+        "Factors Limiting Site Identification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_roadside_site_eviden_731212_nearby_resident_corr_a06f52",
+      "title": "Why Did Nearby Residents Report Nothing Unusual?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "comparison_columns",
+        "versus"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Witness Descriptions of FM 1485 Phenomena",
+        "Interpretations of Missing Local Testimony",
+        "Weight of Negative Evidence in Cash Landrum"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_roadside_site_eviden_731212_pine_tree_damage_cla_c660ff",
+      "title": "Were the Brown Pines Really Burned by Heat?",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "comparison_columns",
+        "myth_facts"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Natural Causes of Pine Browning",
+        "Cash Landrum Tree Damage Interpretations",
+        "Missing Evidence in Cash Landrum Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_roadside_site_eviden_731212_roadside_radiation_s_3dedca",
+      "title": "What Did the Roadside Radiation Test Really Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Texas Department of Health Investigation Steps",
+        "Limitations of the 1981 Radiation Survey",
+        "Scope of the 1981 Survey Findings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_schuessler_case_buil_d5b36a",
+      "title": "How John Schuessler Shaped the Case",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Schuessler's Cash Landrum Investigation Time line",
+        "Radiation Hypothesis Evidence Analysis",
+        "Components of the Cash Landrum Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_schuessler_case_buil_d5b36a_landrum_influence_na_5838f8",
+      "title": "How Landrum's Version Became the Public Story",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Cash–Landrum Investigation Progression",
+        "Early Records vs. Later Narratives",
+        "Schuessler's Multi Faceted Roles"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_schuessler_case_buil_d5b36a_schuessler_advocacy_cfe215",
+      "title": "When the Investigator Became the Witnesses' Advocate",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Cash–Landrum Case Legal Progression",
+        "Schuessler's Advocacy Debate",
+        "Schuessler's Documentary Archive Contents"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_schuessler_case_buil_d5b36a_schuessler_first_cas_4f9500",
+      "title": "What Schuessler Recorded Before the Story Changed",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Schuessler's March 1981 Investigation Time line",
+        "Early File vs. Later Narratives",
+        "Contents of the 1981 Dossier"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_schuessler_case_buil_d5b36a_schuessler_helicopte_aec051",
+      "title": "Did Missing Records Deepen the Cover Up Theory?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Sarran's Military Investigation Workflow",
+        "Interpretations of Missing Records",
+        "Key Elements of the Helicopter Enquiry"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_schuessler_case_buil_d5b36a_schuessler_interview_1b7f8a",
+      "title": "How Schuessler Rebuilt the Roadside Encounter",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "prism",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "taxonomy",
+        "summary"
+      ],
+      "titles": [
+        "Schuessler's 1981 Field Investigation Steps",
+        "Core Elements of the Cash Landrum Narrative",
+        "Limitations of the 1981 Road Reconstruction"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_schuessler_case_buil_d5b36a_schuessler_radiation_1af279",
+      "title": "When a Medical Possibility Became the Main Theory",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Schuessler's Case Framing Evolution",
+        "Medical Evidence vs. Radiation Claims",
+        "Consequences of Radiation Framing"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_secrecy_missing_reco_f32649",
+      "title": "Do Missing Records Suggest a Cover Up?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Cash–Landrum Incident Investigation Path",
+        "Interpretations of Missing Records",
+        "Evidence Required for Verification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_secrecy_missing_reco_f32649_classified_mission_r_86e5a7",
+      "title": "Could Secrecy Really Erase a Mission This Large?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Administrative Footprint of Helicopter Missions",
+        "Interpretations of Missing Helicopter Records",
+        "Evidence Required for Secrecy Validation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_secrecy_missing_reco_f32649_helicopter_scale_par_1ce541",
+      "title": "Could Two Dozen Helicopters Leave No Trace?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Logistics of a Heavy Helicopter Mission",
+        "The Cash Landrum Helicopter Paradox",
+        "Witness Testimony Specificity Details"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_secrecy_missing_reco_f32649_lawsuit_missing_reco_d0e310",
+      "title": "Why Missing Records Defeated the Government Lawsuit",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Cash–Landrum Lawsuit Evidence Flow",
+        "Interpretations of Missing Records",
+        "Missing Evidence Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_secrecy_missing_reco_f32649_military_record_frag_ed019c",
+      "title": "Where Would the Missing Helicopter Records Be?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Military Helicopter Record Lifecycle",
+        "Explaining Missing Helicopter Records",
+        "Military Aviation Record Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_secrecy_missing_reco_f32649_sarran_inquiry_findi_b0c60d",
+      "title": "What Did the Army Inquiry Really Establish?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Sarran Inquiry Investigation Workflow",
+        "Interpretations of Sarran Findings",
+        "Sarran Inquiry Scope Limits"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_secrecy_missing_reco_f32649_witness_error_wrong_29437f",
+      "title": "Were Investigators Searching for Helicopters That Never Existed?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Archive Search Failure Chain",
+        "Witness Confidence Levels",
+        "The Wrong Mission Hypothesis"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_secret_aircraft_theo_cabae6",
+      "title": "Could a Secret Military Aircraft Fit the Story?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cash–Landrum Military Aircraft Theory",
+        "Reported Physical Characteristics",
+        "Historical Secret Aircraft Precedents"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_secret_aircraft_theo_cabae6_aircraft_exhaust_hea_f108ac",
+      "title": "Could Aircraft Exhaust Produce That Much Heat?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "fact_box_sidebar",
+        "venn"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Cash–Landrum Heat Source Hypotheses",
+        "Expected Effects of Downward Plumes",
+        "Witness Observations vs. Physical Evidence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_secret_aircraft_theo_cabae6_damaged_prototype_fl_ea5128",
+      "title": "Could a Failing Prototype Still Fly Away?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "VTOL Flight Dynamics During Lift Loss",
+        "Cash Landrum Prototype Engineering Analysis",
+        "VTOL Stability Challenges Near Obstacles"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_secret_aircraft_theo_cabae6_diamond_shape_proble_c64d55",
+      "title": "Why Does the Diamond Shape Fit So Poorly?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cash–Landrum Witness Testimony Evolution",
+        "Secret Aircraft vs. Perceptual Distortion",
+        "Factors Affecting Shape Perception"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_secret_aircraft_theo_cabae6_helicopter_escort_lo_2f299e",
+      "title": "Could a Massive Helicopter Escort Stay Secret?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Logistics of a Large Helicopter Escort",
+        "Secrecy Challenges in the Cash Landrum Incident",
+        "Operational Requirements for Heavy Lift Aircraft"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_secret_aircraft_theo_cabae6_jet_thrust_hovering_1768be",
+      "title": "Could Jet Thrust Keep the Object Aloft?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Jet Thrust Physics in Hover",
+        "Cash–Landrum Witness Observations vs. Jet Physics",
+        "Avrocar VZ 9 Engineering Obstacles"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_secret_aircraft_theo_cabae6_secret_program_prece_ae0ff8",
+      "title": "What Do Real Secret Aircraft Programs Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "timeline_snake",
+        "comparison_columns"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "comparison"
+      ],
+      "titles": [
+        "Have Blue vs. Tacit Blue Design",
+        "Avrocar VZ 9 Development Time line",
+        "Cash Landrum vs. Known Secret Aircraft"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_shared_memory_stress_441454",
+      "title": "Can Shared Memory Explain Parts of the Story?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Memory Evolution in Cash Landrum Case",
+        "Memory Accuracy vs. Emotional Vividness",
+        "Factors Influencing Colby's Testimony"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_shared_memory_stress_441454_colby_prompted_recal_f75347",
+      "title": "How Much of Colby's Account Was Spontaneous?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Bergstrom Air Force Interview Time line",
+        "Memory Recall Method Comparison",
+        "Modern Forensic Interview Principles"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_shared_memory_stress_441454_helicopter_number_me_620c99",
+      "title": "How Did Many Helicopters Become One Number?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Memory Hardening in Cash Landrum Incident",
+        "Precision vs. Accuracy in Eyewitness Testimony",
+        "Factors Limiting Counting Accuracy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_shared_memory_stress_441454_joint_interview_fals_ff3b02",
+      "title": "Did the Joint Interview Create False Agreement?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Cash–Landrum Joint Interview Time line",
+        "Consistency vs. Independent Corroboration",
+        "Unverifiable Joint Narrative Details"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_shared_memory_stress_441454_military_id_posteven_472cf0",
+      "title": "When Did the Helicopters Become Chinooks?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Cash–Landrum Helicopter Identification Time line",
+        "Recognition vs. Classification Dynamics",
+        "Reported Visual Characteristics of Aircraft"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_shared_memory_stress_441454_seven_month_memory_r_9f827a",
+      "title": "What Changed Before the Air Force Interview?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Cash Landrum Incident Key Stages 1980 1981",
+        "Memory Reconstruction vs. Literal Recording",
+        "Factors Influencing Delayed Testimony"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_shared_memory_stress_441454_stress_roadside_deta_83ab70",
+      "title": "Which Cash Landrum Details Could Stress Distort?",
+      "infographic_count": 3,
+      "templates": [
+        "prism",
+        "comparison_columns",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Cash–Landrum Witness Attention Priorities",
+        "Memory Retention in Stressful Encounters",
+        "Factors Affecting Roadside Measurement Accuracy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007",
+      "title": "How Vickie Landrum Understood the Encounter",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Vickie Landrum's Narrative Evolution",
+        "Interpretations of the Cash Landrum Encounter",
+        "Components of the Landrum Testimony"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_landrum_chinook_clai_079f9c",
+      "title": "Did the Helicopters Prove Government Involvement?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Vickie Landrum's Inference Logic",
+        "Evidence vs. Witness Conviction",
+        "Limitations of Helicopter Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_landrum_diamond_shap_344948",
+      "title": "When Did Landrum Become Certain It Was Diamond Shaped?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Cash–Landrum Witness Testimony Evolution",
+        "Interpretations of Witness Memory Shifts",
+        "Stable vs. Fluid Testimony Elements"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_landrum_faith_colby_3161fb",
+      "title": "Did Landrum Really Think the Object Was Jesus?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Vickie Landrum's Crisis Reassurance Steps",
+        "Interpretations of Landrum's Testimony",
+        "Components of Landrum's Psychological Strategy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_landrum_government_d_aeaf99",
+      "title": "Why Landrum Believed the Government Owed Answers",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Landrum Legal Action Time line",
+        "Landrum's Beliefs vs. Court Findings",
+        "FTCA Litigation Requirements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_landrum_return_to_co_d0f4ec",
+      "title": "Why Landrum Returned to Colby So Quickly",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "tug_of_war",
+        "timeline_snake"
+      ],
+      "roles": [
+        "comparison",
+        "other",
+        "chronology"
+      ],
+      "titles": [
+        "Witness Roles in Cash Landrum Incident",
+        "Vickie Landrum's Physical Experiences",
+        "Vickie Landrum's Key Stages in Actions"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007_landrum_stop_warning_0b5513",
+      "title": "Why Landrum Insisted the Car Must Stop",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Vickie Landrum's Safety Decision Key Stages",
+        "Witness Reaction Divergence Analysis",
+        "Landrum's Primary Safety Priorities"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_walker_helicopter_si_ac910f",
+      "title": "Did Another Witness Confirm the Helicopters?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "timeline_horizon",
+        "grid_stats"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "other"
+      ],
+      "titles": [
+        "Walker Sighting vs. Cash Landrum Narrative",
+        "Army Inspector General Inquiry Process",
+        "Limitations of Walker Evidence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_walker_helicopter_si_ac910f_walker_army_inquiry_379f66",
+      "title": "Did the Army Confirm the Walker Sighting?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Army Inspector General Inquiry Workflow",
+        "Interpretations of the Sarran Inquiry",
+        "Units Checked During Investigation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_walker_helicopter_si_ac910f_walker_cash_flight_p_627807",
+      "title": "Did Both Groups See the Same Helicopters?",
+      "infographic_count": 3,
+      "templates": [
+        "tug_of_war",
+        "venn",
+        "comparison_columns"
+      ],
+      "roles": [
+        "other",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Witness Account Discrepancies in Dayton",
+        "Data Requirements for Route Reconstruction",
+        "Geographical Uncertainties in Dayton Huffman"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_walker_helicopter_si_ac910f_walker_corroboration_0e0580",
+      "title": "What Did the Walker Sighting Really Corroborate?",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "structure_taxonomy",
+        "venn"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "Corroboration vs Identification in Dayton",
+        "Walker Sighting Evidence Scope",
+        "Evidence Layers of Cash Landrum"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_walker_helicopter_si_ac910f_walker_downward_ligh_6ec7e0",
+      "title": "Was the Helicopter Searchlight Really Unusual?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "CH 47 Chinook Night Operation Key Stages",
+        "Lamar Walker Helicopter Light Analysis",
+        "Factors Affecting Nighttime Perception"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_walker_helicopter_si_ac910f_walkers_delayed_acco_b24d0f",
+      "title": "How Much Did the 17 Month Delay Matter?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Walker Testimony Reporting Time line",
+        "Credibility vs Accuracy in Testimony",
+        "Vulnerable Memory Details in Walkers' Account"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_witness_account_chan_33e460",
+      "title": "How Did the Story Change Over Time?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cash–Landrum Case Narrative Evolution",
+        "Evidence Reliability in Cash–Landrum Records",
+        "Hierarchy of Witness Testimony Weight"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_witness_account_chan_33e460_air_force_markings_c_dc183f",
+      "title": "Could Cash Really Read Air Force Markings?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Betty Cash Interview Evolution",
+        "Nighttime Visual Perception Limits",
+        "Evidence Analysis of Cash Landrum Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_witness_account_chan_33e460_blue_lights_after_hy_a0870d",
+      "title": "Did Hypnosis Add the Object's Blue Lights?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the Cash Landrum Narrative",
+        "Early vs. Later Witness Descriptions",
+        "Factors Influencing Memory Evolution"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_witness_account_chan_33e460_first_observer_confl_e056fe",
+      "title": "Who Really Saw the Light First?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Cash–Landrum Narrative Evolution Time line",
+        "Observer Role Discrepancies in Records",
+        "Factors Influencing Narrative Stabilization"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_witness_account_chan_33e460_joint_interviews_sha_5a4002",
+      "title": "When Three Memories Became One Story",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Cash–Landrum Incident Key Stages",
+        "Memory Consistency vs. Accuracy",
+        "Stable Elements of the Cash Landrum Record"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_witness_account_chan_33e460_late_scorched_road_c_03241b",
+      "title": "Why Did the Scorched Road Appear Later?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in Road Damage Claims",
+        "Road Damage Evidence Analysis",
+        "Evolution of the Cover Up Story"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "cash_landrum_ufo_inc_db9d45_witness_account_chan_33e460_twenty_three_helicop_3bd912",
+      "title": "How Reliable Was the Count of 23 Helicopters?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "logic_equation"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "other"
+      ],
+      "titles": [
+        "Key Stages in the 23 Helicopter Count",
+        "Witness Recollection vs. Objective Verification",
+        "Factors Solidifying the '23' Count"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    }
+  ]
+}

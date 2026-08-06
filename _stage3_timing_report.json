@@ -1,0 +1,2157 @@
+{
+  "version": 1,
+  "page_count": 96,
+  "total_page_seconds": 395.2934,
+  "average_page_seconds": 4.1176,
+  "phase_totals_seconds": {
+    "internal_links": 230.3018,
+    "content_assembly": 79.1847,
+    "media_svg": 36.5196,
+    "monetization": 28.3124,
+    "youtube": 9.2407,
+    "quality_write": 5.6637,
+    "preparation": 3.4188,
+    "content_cleanup_final": 2.5928,
+    "content_cleanup_initial": 0.0594
+  },
+  "slowest_pages": [
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 7.7461,
+      "phases": {
+        "preparation": 0.0428,
+        "content_cleanup_initial": 0.0022,
+        "internal_links": 2.7004,
+        "content_cleanup_final": 0.0569,
+        "media_svg": 0.2611,
+        "youtube": 2.2601,
+        "content_assembly": 1.0262,
+        "monetization": 1.3138,
+        "quality_write": 0.0825
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 7.7185,
+      "phases": {
+        "preparation": 0.0314,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.3901,
+        "content_cleanup_final": 0.0299,
+        "media_svg": 0.3899,
+        "youtube": 2.7383,
+        "content_assembly": 0.9103,
+        "monetization": 1.1604,
+        "quality_write": 0.0674
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 7.1547,
+      "phases": {
+        "preparation": 0.0322,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.3245,
+        "content_cleanup_final": 0.0338,
+        "media_svg": 0.2437,
+        "youtube": 2.3407,
+        "content_assembly": 0.9454,
+        "monetization": 1.1704,
+        "quality_write": 0.0631
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_secret_aircraft_theo_cabae6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 6.1213,
+      "phases": {
+        "preparation": 0.0349,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.3939,
+        "content_cleanup_final": 0.0296,
+        "media_svg": 0.2097,
+        "youtube": 0.0242,
+        "content_assembly": 0.95,
+        "monetization": 2.4145,
+        "quality_write": 0.064
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_aircraft_misidentifi_a1d4cf_multiple_aircraft_sc_c6fa94",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.7548,
+      "phases": {
+        "preparation": 0.0276,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.3306,
+        "content_cleanup_final": 0.0205,
+        "media_svg": 0.4618,
+        "youtube": 0.0179,
+        "content_assembly": 0.8084,
+        "monetization": 2.0398,
+        "quality_write": 0.0478
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_shared_memory_stress_441454_seven_month_memory_r_9f827a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.6072,
+      "phases": {
+        "preparation": 0.0262,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.3668,
+        "content_cleanup_final": 0.0287,
+        "media_svg": 0.475,
+        "youtube": 0.0284,
+        "content_assembly": 0.7603,
+        "monetization": 1.8731,
+        "quality_write": 0.0483
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_shared_memory_stress_441454_stress_roadside_deta_83ab70",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.5099,
+      "phases": {
+        "preparation": 0.0258,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.4502,
+        "content_cleanup_final": 0.0247,
+        "media_svg": 0.4523,
+        "youtube": 0.0119,
+        "content_assembly": 0.7369,
+        "monetization": 1.7551,
+        "quality_write": 0.0524
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_night_encounter_time_39b32d_helicopter_formation_ee2d34",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.2321,
+      "phases": {
+        "preparation": 0.0286,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.3879,
+        "content_cleanup_final": 0.0226,
+        "media_svg": 0.4677,
+        "youtube": 0.0153,
+        "content_assembly": 0.7707,
+        "monetization": 1.492,
+        "quality_write": 0.0469
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_aircraft_misidentifi_a1d4cf",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.9856,
+      "phases": {
+        "preparation": 0.0818,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.6393,
+        "content_cleanup_final": 0.0524,
+        "media_svg": 0.3,
+        "youtube": 0.0367,
+        "content_assembly": 1.0052,
+        "monetization": 0.788,
+        "quality_write": 0.0814
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_shared_memory_stress_441454",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.7704,
+      "phases": {
+        "preparation": 0.0322,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 2.4945,
+        "content_cleanup_final": 0.04,
+        "media_svg": 0.4218,
+        "youtube": 0.0116,
+        "content_assembly": 0.9389,
+        "monetization": 0.7651,
+        "quality_write": 0.065
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_schuessler_case_buil_d5b36a_schuessler_helicopte_aec051",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.6959,
+      "phases": {
+        "preparation": 0.0351,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.394,
+        "content_cleanup_final": 0.0241,
+        "media_svg": 0.456,
+        "youtube": 0.0184,
+        "content_assembly": 0.7666,
+        "monetization": 0.9485,
+        "quality_write": 0.0525
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.5253,
+      "phases": {
+        "preparation": 0.0504,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.4405,
+        "content_cleanup_final": 0.0274,
+        "media_svg": 0.2126,
+        "youtube": 0.022,
+        "content_assembly": 0.9359,
+        "monetization": 0.7791,
+        "quality_write": 0.0567
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_schuessler_case_buil_d5b36a_schuessler_radiation_1af279",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.4653,
+      "phases": {
+        "preparation": 0.0201,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.2658,
+        "content_cleanup_final": 0.0185,
+        "media_svg": 0.4616,
+        "youtube": 0.0289,
+        "content_assembly": 0.774,
+        "monetization": 0.8446,
+        "quality_write": 0.0509
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_helicopter_mission_l_4a4fa2",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.1296,
+      "phases": {
+        "preparation": 0.037,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.5684,
+        "content_cleanup_final": 0.0586,
+        "media_svg": 0.2136,
+        "youtube": 0.0203,
+        "content_assembly": 1.0488,
+        "monetization": 0.1085,
+        "quality_write": 0.0736
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_radiation_sickness_c_5b60f3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.0848,
+      "phases": {
+        "preparation": 0.0387,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.5935,
+        "content_cleanup_final": 0.0394,
+        "media_svg": 0.1896,
+        "youtube": 0.0203,
+        "content_assembly": 1.0065,
+        "monetization": 0.1156,
+        "quality_write": 0.0807
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_cash_hospital_record_019b0f_cash_local_vs_whole_713796",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.0821,
+      "phases": {
+        "preparation": 0.0314,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.4579,
+        "content_cleanup_final": 0.0341,
+        "media_svg": 0.4961,
+        "youtube": 0.0174,
+        "content_assembly": 0.8634,
+        "monetization": 0.1279,
+        "quality_write": 0.0529
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_night_encounter_time_39b32d_encounter_time_windo_54cd86",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.0816,
+      "phases": {
+        "preparation": 0.0325,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.5089,
+        "content_cleanup_final": 0.0255,
+        "media_svg": 0.4456,
+        "youtube": 0.0168,
+        "content_assembly": 0.8516,
+        "monetization": 0.131,
+        "quality_write": 0.0694
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_cash_hospital_record_019b0f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.0806,
+      "phases": {
+        "preparation": 0.0338,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.5417,
+        "content_cleanup_final": 0.0336,
+        "media_svg": 0.3119,
+        "youtube": 0.0189,
+        "content_assembly": 0.9238,
+        "monetization": 0.1432,
+        "quality_write": 0.073
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_night_encounter_time_39b32d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.0788,
+      "phases": {
+        "preparation": 0.0372,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.5996,
+        "content_cleanup_final": 0.0393,
+        "media_svg": 0.1928,
+        "youtube": 0.0311,
+        "content_assembly": 0.9723,
+        "monetization": 0.1352,
+        "quality_write": 0.0708
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5_colby_diamond_memory_63666d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.074,
+      "phases": {
+        "preparation": 0.0288,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.52,
+        "content_cleanup_final": 0.0266,
+        "media_svg": 0.428,
+        "youtube": 0.0182,
+        "content_assembly": 0.8174,
+        "monetization": 0.1719,
+        "quality_write": 0.0626
+      }
+    }
+  ],
+  "pages": [
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 7.7185,
+      "phases": {
+        "preparation": 0.0314,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.3901,
+        "content_cleanup_final": 0.0299,
+        "media_svg": 0.3899,
+        "youtube": 2.7383,
+        "content_assembly": 0.9103,
+        "monetization": 1.1604,
+        "quality_write": 0.0674
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 7.7461,
+      "phases": {
+        "preparation": 0.0428,
+        "content_cleanup_initial": 0.0022,
+        "internal_links": 2.7004,
+        "content_cleanup_final": 0.0569,
+        "media_svg": 0.2611,
+        "youtube": 2.2601,
+        "content_assembly": 1.0262,
+        "monetization": 1.3138,
+        "quality_write": 0.0825
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.827,
+      "phases": {
+        "preparation": 0.0474,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.3038,
+        "content_cleanup_final": 0.0333,
+        "media_svg": 0.1885,
+        "youtube": 0.0163,
+        "content_assembly": 0.9615,
+        "monetization": 0.203,
+        "quality_write": 0.0723
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 7.1547,
+      "phases": {
+        "preparation": 0.0322,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.3245,
+        "content_cleanup_final": 0.0338,
+        "media_svg": 0.2437,
+        "youtube": 2.3407,
+        "content_assembly": 0.9454,
+        "monetization": 1.1704,
+        "quality_write": 0.0631
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8373,
+      "phases": {
+        "preparation": 0.06,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.3824,
+        "content_cleanup_final": 0.0276,
+        "media_svg": 0.1731,
+        "youtube": 0.0189,
+        "content_assembly": 0.9764,
+        "monetization": 0.1238,
+        "quality_write": 0.0747
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9912,
+      "phases": {
+        "preparation": 0.0838,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.3681,
+        "content_cleanup_final": 0.0323,
+        "media_svg": 0.1827,
+        "youtube": 0.0344,
+        "content_assembly": 0.998,
+        "monetization": 0.2252,
+        "quality_write": 0.0657
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_administrative_claim_4bc9ad",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9378,
+      "phases": {
+        "preparation": 0.0379,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.5037,
+        "content_cleanup_final": 0.0315,
+        "media_svg": 0.185,
+        "youtube": 0.0233,
+        "content_assembly": 0.9575,
+        "monetization": 0.1304,
+        "quality_write": 0.0679
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_bergstrom_recorded_i_ced9f1",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8164,
+      "phases": {
+        "preparation": 0.0344,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.4321,
+        "content_cleanup_final": 0.0304,
+        "media_svg": 0.1775,
+        "youtube": 0.0257,
+        "content_assembly": 0.944,
+        "monetization": 0.1091,
+        "quality_write": 0.0626
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_aircraft_misidentifi_a1d4cf",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.9856,
+      "phases": {
+        "preparation": 0.0818,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.6393,
+        "content_cleanup_final": 0.0524,
+        "media_svg": 0.3,
+        "youtube": 0.0367,
+        "content_assembly": 1.0052,
+        "monetization": 0.788,
+        "quality_write": 0.0814
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7607,
+      "phases": {
+        "preparation": 0.0857,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.3077,
+        "content_cleanup_final": 0.0377,
+        "media_svg": 0.1901,
+        "youtube": 0.0211,
+        "content_assembly": 0.9048,
+        "monetization": 0.1447,
+        "quality_write": 0.0683
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_chinook_formation_cl_8c8e62",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7515,
+      "phases": {
+        "preparation": 0.0463,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.3313,
+        "content_cleanup_final": 0.0346,
+        "media_svg": 0.207,
+        "youtube": 0.0158,
+        "content_assembly": 0.9097,
+        "monetization": 0.1394,
+        "quality_write": 0.0664
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_cash_hospital_record_019b0f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.0806,
+      "phases": {
+        "preparation": 0.0338,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.5417,
+        "content_cleanup_final": 0.0336,
+        "media_svg": 0.3119,
+        "youtube": 0.0189,
+        "content_assembly": 0.9238,
+        "monetization": 0.1432,
+        "quality_write": 0.073
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_court_dismissal_mean_d82e1e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9275,
+      "phases": {
+        "preparation": 0.0466,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.4173,
+        "content_cleanup_final": 0.0359,
+        "media_svg": 0.1907,
+        "youtube": 0.0415,
+        "content_assembly": 0.9784,
+        "monetization": 0.1412,
+        "quality_write": 0.0751
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_federal_lawsuit_stra_9deab6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.0403,
+      "phases": {
+        "preparation": 0.0389,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 2.6252,
+        "content_cleanup_final": 0.0338,
+        "media_svg": 0.1904,
+        "youtube": 0.0182,
+        "content_assembly": 0.9341,
+        "monetization": 0.1277,
+        "quality_write": 0.0709
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.5253,
+      "phases": {
+        "preparation": 0.0504,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.4405,
+        "content_cleanup_final": 0.0274,
+        "media_svg": 0.2126,
+        "youtube": 0.022,
+        "content_assembly": 0.9359,
+        "monetization": 0.7791,
+        "quality_write": 0.0567
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_helicopter_mission_l_4a4fa2",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.1296,
+      "phases": {
+        "preparation": 0.037,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.5684,
+        "content_cleanup_final": 0.0586,
+        "media_svg": 0.2136,
+        "youtube": 0.0203,
+        "content_assembly": 1.0488,
+        "monetization": 0.1085,
+        "quality_write": 0.0736
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_lawsuit_proof_limits_46cf1c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9003,
+      "phases": {
+        "preparation": 0.0473,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.4348,
+        "content_cleanup_final": 0.0293,
+        "media_svg": 0.2061,
+        "youtube": 0.0225,
+        "content_assembly": 0.946,
+        "monetization": 0.1396,
+        "quality_write": 0.0741
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_military_ownership_d_e558cd",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8595,
+      "phases": {
+        "preparation": 0.0377,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.3805,
+        "content_cleanup_final": 0.0313,
+        "media_svg": 0.2087,
+        "youtube": 0.0172,
+        "content_assembly": 0.9567,
+        "monetization": 0.1627,
+        "quality_write": 0.064
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_missing_radiation_me_a2ab01",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.002,
+      "phases": {
+        "preparation": 0.0451,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.4396,
+        "content_cleanup_final": 0.035,
+        "media_svg": 0.1977,
+        "youtube": 0.0348,
+        "content_assembly": 1.0166,
+        "monetization": 0.1714,
+        "quality_write": 0.0609
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_night_encounter_time_39b32d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.0788,
+      "phases": {
+        "preparation": 0.0372,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.5996,
+        "content_cleanup_final": 0.0393,
+        "media_svg": 0.1928,
+        "youtube": 0.0311,
+        "content_assembly": 0.9723,
+        "monetization": 0.1352,
+        "quality_write": 0.0708
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_radiation_sickness_c_5b60f3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.0848,
+      "phases": {
+        "preparation": 0.0387,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.5935,
+        "content_cleanup_final": 0.0394,
+        "media_svg": 0.1896,
+        "youtube": 0.0203,
+        "content_assembly": 1.0065,
+        "monetization": 0.1156,
+        "quality_write": 0.0807
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_reported_medical_sym_9f9547",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.026,
+      "phases": {
+        "preparation": 0.0358,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.4497,
+        "content_cleanup_final": 0.0258,
+        "media_svg": 0.3523,
+        "youtube": 0.0181,
+        "content_assembly": 0.928,
+        "monetization": 0.1483,
+        "quality_write": 0.0675
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_roadside_site_eviden_731212",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8124,
+      "phases": {
+        "preparation": 0.0429,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.418,
+        "content_cleanup_final": 0.0369,
+        "media_svg": 0.1942,
+        "youtube": 0.0249,
+        "content_assembly": 0.9177,
+        "monetization": 0.1122,
+        "quality_write": 0.0649
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_schuessler_case_buil_d5b36a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7377,
+      "phases": {
+        "preparation": 0.0454,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.3945,
+        "content_cleanup_final": 0.0393,
+        "media_svg": 0.1919,
+        "youtube": 0.0125,
+        "content_assembly": 0.8898,
+        "monetization": 0.0952,
+        "quality_write": 0.0686
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_secrecy_missing_reco_f32649",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7598,
+      "phases": {
+        "preparation": 0.0491,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.3426,
+        "content_cleanup_final": 0.0288,
+        "media_svg": 0.1871,
+        "youtube": 0.0193,
+        "content_assembly": 0.9553,
+        "monetization": 0.1157,
+        "quality_write": 0.0614
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_shared_memory_stress_441454",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.7704,
+      "phases": {
+        "preparation": 0.0322,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 2.4945,
+        "content_cleanup_final": 0.04,
+        "media_svg": 0.4218,
+        "youtube": 0.0116,
+        "content_assembly": 0.9389,
+        "monetization": 0.7651,
+        "quality_write": 0.065
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7524,
+      "phases": {
+        "preparation": 0.0491,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.3739,
+        "content_cleanup_final": 0.0304,
+        "media_svg": 0.3065,
+        "youtube": 0.0252,
+        "content_assembly": 0.8036,
+        "monetization": 0.1028,
+        "quality_write": 0.0604
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_secret_aircraft_theo_cabae6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 6.1213,
+      "phases": {
+        "preparation": 0.0349,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.3939,
+        "content_cleanup_final": 0.0296,
+        "media_svg": 0.2097,
+        "youtube": 0.0242,
+        "content_assembly": 0.95,
+        "monetization": 2.4145,
+        "quality_write": 0.064
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_walker_helicopter_si_ac910f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7995,
+      "phases": {
+        "preparation": 0.036,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.3857,
+        "content_cleanup_final": 0.0323,
+        "media_svg": 0.1786,
+        "youtube": 0.0366,
+        "content_assembly": 0.9022,
+        "monetization": 0.1495,
+        "quality_write": 0.0781
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_witness_account_chan_33e460",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9686,
+      "phases": {
+        "preparation": 0.034,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.5059,
+        "content_cleanup_final": 0.0491,
+        "media_svg": 0.1852,
+        "youtube": 0.0195,
+        "content_assembly": 0.9625,
+        "monetization": 0.1249,
+        "quality_write": 0.0869
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5_colby_car_view_f9c0f2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.025,
+      "phases": {
+        "preparation": 0.142,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.3897,
+        "content_cleanup_final": 0.028,
+        "media_svg": 0.4711,
+        "youtube": 0.015,
+        "content_assembly": 0.771,
+        "monetization": 0.1537,
+        "quality_write": 0.0535
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231_dashboard_handprint_d9072d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.0623,
+      "phases": {
+        "preparation": 0.1244,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.4554,
+        "content_cleanup_final": 0.0287,
+        "media_svg": 0.4621,
+        "youtube": 0.0172,
+        "content_assembly": 0.7895,
+        "monetization": 0.119,
+        "quality_write": 0.0657
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231_missing_heat_damage_309aa8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9946,
+      "phases": {
+        "preparation": 0.1166,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.4085,
+        "content_cleanup_final": 0.0243,
+        "media_svg": 0.4648,
+        "youtube": 0.0249,
+        "content_assembly": 0.766,
+        "monetization": 0.141,
+        "quality_write": 0.0481
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231_car_inspection_delay_c7094f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.921,
+      "phases": {
+        "preparation": 0.0229,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.4447,
+        "content_cleanup_final": 0.0228,
+        "media_svg": 0.4638,
+        "youtube": 0.0147,
+        "content_assembly": 0.7481,
+        "monetization": 0.1479,
+        "quality_write": 0.0558
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231_landrum_arm_bodywork_3d6fdd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7601,
+      "phases": {
+        "preparation": 0.0189,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.3113,
+        "content_cleanup_final": 0.0212,
+        "media_svg": 0.4511,
+        "youtube": 0.0174,
+        "content_assembly": 0.7581,
+        "monetization": 0.1232,
+        "quality_write": 0.0578
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231_radiant_heat_windscr_0ab9ff",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8159,
+      "phases": {
+        "preparation": 0.0332,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.3067,
+        "content_cleanup_final": 0.0259,
+        "media_svg": 0.4321,
+        "youtube": 0.017,
+        "content_assembly": 0.7534,
+        "monetization": 0.1532,
+        "quality_write": 0.094
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0_symptom_overlap_not_32b7b0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8729,
+      "phases": {
+        "preparation": 0.0239,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.3508,
+        "content_cleanup_final": 0.0183,
+        "media_svg": 0.4763,
+        "youtube": 0.0162,
+        "content_assembly": 0.834,
+        "monetization": 0.1032,
+        "quality_write": 0.0496
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e_broad_flame_or_jets_98cc51",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8514,
+      "phases": {
+        "preparation": 0.0301,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.3702,
+        "content_cleanup_final": 0.0238,
+        "media_svg": 0.4496,
+        "youtube": 0.0275,
+        "content_assembly": 0.7549,
+        "monetization": 0.1478,
+        "quality_write": 0.0468
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41_car_inspection_delay_c7094f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6948,
+      "phases": {
+        "preparation": 0.0327,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.2848,
+        "content_cleanup_final": 0.0153,
+        "media_svg": 0.4349,
+        "youtube": 0.0206,
+        "content_assembly": 0.7531,
+        "monetization": 0.1038,
+        "quality_write": 0.0492
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41_dashboard_handprints_6e745a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7208,
+      "phases": {
+        "preparation": 0.0281,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.3036,
+        "content_cleanup_final": 0.0195,
+        "media_svg": 0.4477,
+        "youtube": 0.018,
+        "content_assembly": 0.7408,
+        "monetization": 0.103,
+        "quality_write": 0.0591
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_administrative_claim_4bc9ad_claim_filing_delay_bf1d3e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.766,
+      "phases": {
+        "preparation": 0.0322,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.2991,
+        "content_cleanup_final": 0.0284,
+        "media_svg": 0.454,
+        "youtube": 0.0144,
+        "content_assembly": 0.7643,
+        "monetization": 0.1173,
+        "quality_write": 0.0559
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e_glare_perspective_th_65786e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8277,
+      "phases": {
+        "preparation": 0.0307,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.3639,
+        "content_cleanup_final": 0.0226,
+        "media_svg": 0.434,
+        "youtube": 0.0172,
+        "content_assembly": 0.7672,
+        "monetization": 0.1406,
+        "quality_write": 0.051
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e_missing_plume_ground_6007c9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8029,
+      "phases": {
+        "preparation": 0.0257,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.3427,
+        "content_cleanup_final": 0.0204,
+        "media_svg": 0.4469,
+        "youtube": 0.0176,
+        "content_assembly": 0.7524,
+        "monetization": 0.1418,
+        "quality_write": 0.0547
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e_uncertain_site_plume_407be3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6761,
+      "phases": {
+        "preparation": 0.0218,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.2557,
+        "content_cleanup_final": 0.0231,
+        "media_svg": 0.4232,
+        "youtube": 0.0215,
+        "content_assembly": 0.7618,
+        "monetization": 0.1203,
+        "quality_write": 0.0482
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba_alopecia_areata_expl_8d0f57",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8395,
+      "phases": {
+        "preparation": 0.0244,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.3469,
+        "content_cleanup_final": 0.0234,
+        "media_svg": 0.4337,
+        "youtube": 0.0159,
+        "content_assembly": 0.8266,
+        "monetization": 0.1126,
+        "quality_write": 0.0556
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_cash_hospital_record_019b0f_cash_local_vs_whole_713796",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.0821,
+      "phases": {
+        "preparation": 0.0314,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.4579,
+        "content_cleanup_final": 0.0341,
+        "media_svg": 0.4961,
+        "youtube": 0.0174,
+        "content_assembly": 0.8634,
+        "monetization": 0.1279,
+        "quality_write": 0.0529
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5_colby_diamond_memory_63666d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.074,
+      "phases": {
+        "preparation": 0.0288,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.52,
+        "content_cleanup_final": 0.0266,
+        "media_svg": 0.428,
+        "youtube": 0.0182,
+        "content_assembly": 0.8174,
+        "monetization": 0.1719,
+        "quality_write": 0.0626
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_court_dismissal_mean_d82e1e_helicopters_federal_2d778f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.93,
+      "phases": {
+        "preparation": 0.025,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.3335,
+        "content_cleanup_final": 0.0252,
+        "media_svg": 0.4658,
+        "youtube": 0.0163,
+        "content_assembly": 0.8476,
+        "monetization": 0.1646,
+        "quality_write": 0.0517
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_federal_lawsuit_stra_9deab6_helicopters_federal_2d778f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9986,
+      "phases": {
+        "preparation": 0.0253,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.3839,
+        "content_cleanup_final": 0.0254,
+        "media_svg": 0.4935,
+        "youtube": 0.0302,
+        "content_assembly": 0.8042,
+        "monetization": 0.1671,
+        "quality_write": 0.0685
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_schuessler_case_buil_d5b36a_schuessler_advocacy_cfe215",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7723,
+      "phases": {
+        "preparation": 0.031,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.39,
+        "content_cleanup_final": 0.024,
+        "media_svg": 0.426,
+        "youtube": 0.0189,
+        "content_assembly": 0.7472,
+        "monetization": 0.0875,
+        "quality_write": 0.0473
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_secrecy_missing_reco_f32649_witness_error_wrong_29437f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8337,
+      "phases": {
+        "preparation": 0.0248,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.3765,
+        "content_cleanup_final": 0.0252,
+        "media_svg": 0.4484,
+        "youtube": 0.0197,
+        "content_assembly": 0.7483,
+        "monetization": 0.1411,
+        "quality_write": 0.0492
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_secret_aircraft_theo_cabae6_jet_thrust_hovering_1768be",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9111,
+      "phases": {
+        "preparation": 0.028,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.4385,
+        "content_cleanup_final": 0.0224,
+        "media_svg": 0.4178,
+        "youtube": 0.0103,
+        "content_assembly": 0.7768,
+        "monetization": 0.1664,
+        "quality_write": 0.0499
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_aircraft_misidentifi_a1d4cf_night_distance_error_d54893",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8723,
+      "phases": {
+        "preparation": 0.0303,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.447,
+        "content_cleanup_final": 0.034,
+        "media_svg": 0.4433,
+        "youtube": 0.0216,
+        "content_assembly": 0.6964,
+        "monetization": 0.1498,
+        "quality_write": 0.0494
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db_cash_long_illness_ca_c0dda9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6803,
+      "phases": {
+        "preparation": 0.0221,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.365,
+        "content_cleanup_final": 0.021,
+        "media_svg": 0.4229,
+        "youtube": 0.0158,
+        "content_assembly": 0.6914,
+        "monetization": 0.0973,
+        "quality_write": 0.0445
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_aircraft_misidentifi_a1d4cf_multiple_aircraft_sc_c6fa94",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.7548,
+      "phases": {
+        "preparation": 0.0276,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.3306,
+        "content_cleanup_final": 0.0205,
+        "media_svg": 0.4618,
+        "youtube": 0.0179,
+        "content_assembly": 0.8084,
+        "monetization": 2.0398,
+        "quality_write": 0.0478
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_cash_hospital_record_019b0f_cash_findings_vs_lab_bb1704",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7773,
+      "phases": {
+        "preparation": 0.0211,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.3807,
+        "content_cleanup_final": 0.0195,
+        "media_svg": 0.4505,
+        "youtube": 0.0188,
+        "content_assembly": 0.7162,
+        "monetization": 0.1145,
+        "quality_write": 0.0557
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_chinook_formation_cl_8c8e62_air_force_marking_co_f41ff9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9803,
+      "phases": {
+        "preparation": 0.0203,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.4698,
+        "content_cleanup_final": 0.0201,
+        "media_svg": 0.4152,
+        "youtube": 0.0252,
+        "content_assembly": 0.8358,
+        "monetization": 0.1475,
+        "quality_write": 0.0461
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_chinook_formation_cl_8c8e62_chinook_identificati_14d4b6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.916,
+      "phases": {
+        "preparation": 0.0268,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.3775,
+        "content_cleanup_final": 0.0221,
+        "media_svg": 0.4611,
+        "youtube": 0.0182,
+        "content_assembly": 0.8124,
+        "monetization": 0.1485,
+        "quality_write": 0.0487
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_chinook_formation_cl_8c8e62_helicopter_count_rel_6f355e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.0363,
+      "phases": {
+        "preparation": 0.0361,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.5489,
+        "content_cleanup_final": 0.0201,
+        "media_svg": 0.4605,
+        "youtube": 0.0188,
+        "content_assembly": 0.7488,
+        "monetization": 0.1456,
+        "quality_write": 0.057
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_chinook_formation_cl_8c8e62_large_formation_miss_172d68",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9149,
+      "phases": {
+        "preparation": 0.0292,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.4415,
+        "content_cleanup_final": 0.0291,
+        "media_svg": 0.451,
+        "youtube": 0.019,
+        "content_assembly": 0.7756,
+        "monetization": 0.1218,
+        "quality_write": 0.0473
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_court_dismissal_mean_d82e1e_government_sworn_den_3e96e5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8527,
+      "phases": {
+        "preparation": 0.031,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.3716,
+        "content_cleanup_final": 0.0185,
+        "media_svg": 0.4634,
+        "youtube": 0.0164,
+        "content_assembly": 0.7524,
+        "monetization": 0.1465,
+        "quality_write": 0.0525
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_court_dismissal_mean_d82e1e_military_inquiries_n_0e790e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7934,
+      "phases": {
+        "preparation": 0.0225,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.3516,
+        "content_cleanup_final": 0.0164,
+        "media_svg": 0.4285,
+        "youtube": 0.0178,
+        "content_assembly": 0.7709,
+        "monetization": 0.132,
+        "quality_write": 0.0532
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7_object_size_distance_642e1c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8302,
+      "phases": {
+        "preparation": 0.0232,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.3873,
+        "content_cleanup_final": 0.0194,
+        "media_svg": 0.4233,
+        "youtube": 0.0288,
+        "content_assembly": 0.7791,
+        "monetization": 0.1176,
+        "quality_write": 0.0508
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7_surface_detail_uncer_e61272",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.846,
+      "phases": {
+        "preparation": 0.02,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.3789,
+        "content_cleanup_final": 0.0212,
+        "media_svg": 0.4436,
+        "youtube": 0.0152,
+        "content_assembly": 0.8001,
+        "monetization": 0.1187,
+        "quality_write": 0.0472
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_federal_lawsuit_stra_9deab6_medical_records_caus_9afb1b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7845,
+      "phases": {
+        "preparation": 0.0266,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.3193,
+        "content_cleanup_final": 0.0168,
+        "media_svg": 0.4332,
+        "youtube": 0.0103,
+        "content_assembly": 0.764,
+        "monetization": 0.164,
+        "quality_write": 0.0497
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_helicopter_mission_l_4a4fa2_holiday_night_helico_1e820c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8858,
+      "phases": {
+        "preparation": 0.0272,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.3861,
+        "content_cleanup_final": 0.0306,
+        "media_svg": 0.4642,
+        "youtube": 0.0234,
+        "content_assembly": 0.7681,
+        "monetization": 0.1404,
+        "quality_write": 0.0453
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_helicopter_mission_l_4a4fa2_possible_departure_b_94eb0a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7429,
+      "phases": {
+        "preparation": 0.0242,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.2775,
+        "content_cleanup_final": 0.0177,
+        "media_svg": 0.4656,
+        "youtube": 0.0175,
+        "content_assembly": 0.7553,
+        "monetization": 0.1255,
+        "quality_write": 0.0595
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_lawsuit_proof_limits_46cf1c_twenty_million_claim_bbc351",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8311,
+      "phases": {
+        "preparation": 0.0296,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.3294,
+        "content_cleanup_final": 0.0146,
+        "media_svg": 0.479,
+        "youtube": 0.0259,
+        "content_assembly": 0.7602,
+        "monetization": 0.1294,
+        "quality_write": 0.0626
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_military_ownership_d_e558cd_agency_boundary_reso_158beb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8602,
+      "phases": {
+        "preparation": 0.0207,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.4034,
+        "content_cleanup_final": 0.0203,
+        "media_svg": 0.4372,
+        "youtube": 0.0147,
+        "content_assembly": 0.7608,
+        "monetization": 0.1488,
+        "quality_write": 0.054
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_missing_radiation_me_a2ab01_medical_radiation_do_baffc9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.808,
+      "phases": {
+        "preparation": 0.0288,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.3014,
+        "content_cleanup_final": 0.0324,
+        "media_svg": 0.4522,
+        "youtube": 0.0169,
+        "content_assembly": 0.7812,
+        "monetization": 0.1366,
+        "quality_write": 0.058
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_missing_radiation_me_a2ab01_missed_immediate_rad_2702a4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8487,
+      "phases": {
+        "preparation": 0.0261,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.3593,
+        "content_cleanup_final": 0.0195,
+        "media_svg": 0.4344,
+        "youtube": 0.017,
+        "content_assembly": 0.7813,
+        "monetization": 0.1476,
+        "quality_write": 0.0629
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_night_encounter_time_39b32d_encounter_time_windo_54cd86",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.0816,
+      "phases": {
+        "preparation": 0.0325,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.5089,
+        "content_cleanup_final": 0.0255,
+        "media_svg": 0.4456,
+        "youtube": 0.0168,
+        "content_assembly": 0.8516,
+        "monetization": 0.131,
+        "quality_write": 0.0694
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_night_encounter_time_39b32d_first_light_approach_cf659e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.0046,
+      "phases": {
+        "preparation": 0.0222,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.4029,
+        "content_cleanup_final": 0.0312,
+        "media_svg": 0.4583,
+        "youtube": 0.0184,
+        "content_assembly": 0.8475,
+        "monetization": 0.1577,
+        "quality_write": 0.0661
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_reported_medical_sym_9f9547_witness_symptom_seve_77f1bd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6838,
+      "phases": {
+        "preparation": 0.0241,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.3008,
+        "content_cleanup_final": 0.0281,
+        "media_svg": 0.4249,
+        "youtube": 0.0176,
+        "content_assembly": 0.7142,
+        "monetization": 0.1234,
+        "quality_write": 0.0498
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_radiation_sickness_c_5b60f3_missing_radiation_do_41a930",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8267,
+      "phases": {
+        "preparation": 0.0251,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.4158,
+        "content_cleanup_final": 0.0277,
+        "media_svg": 0.436,
+        "youtube": 0.017,
+        "content_assembly": 0.7233,
+        "monetization": 0.1316,
+        "quality_write": 0.0498
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_night_encounter_time_39b32d_helicopter_formation_ee2d34",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.2321,
+      "phases": {
+        "preparation": 0.0286,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.3879,
+        "content_cleanup_final": 0.0226,
+        "media_svg": 0.4677,
+        "youtube": 0.0153,
+        "content_assembly": 0.7707,
+        "monetization": 1.492,
+        "quality_write": 0.0469
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_roadside_site_eviden_731212_fm1485_stop_site_unc_3bbfe0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.84,
+      "phases": {
+        "preparation": 0.0265,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.3045,
+        "content_cleanup_final": 0.0254,
+        "media_svg": 0.4463,
+        "youtube": 0.024,
+        "content_assembly": 0.7927,
+        "monetization": 0.1538,
+        "quality_write": 0.0663
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_roadside_site_eviden_731212_pine_tree_damage_cla_c660ff",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8689,
+      "phases": {
+        "preparation": 0.0304,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.3541,
+        "content_cleanup_final": 0.0248,
+        "media_svg": 0.4477,
+        "youtube": 0.0166,
+        "content_assembly": 0.8185,
+        "monetization": 0.1126,
+        "quality_write": 0.0639
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_schuessler_case_buil_d5b36a_landrum_influence_na_5838f8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7847,
+      "phases": {
+        "preparation": 0.0325,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.3053,
+        "content_cleanup_final": 0.0204,
+        "media_svg": 0.4385,
+        "youtube": 0.024,
+        "content_assembly": 0.8096,
+        "monetization": 0.0968,
+        "quality_write": 0.0571
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_schuessler_case_buil_d5b36a_schuessler_first_cas_4f9500",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8613,
+      "phases": {
+        "preparation": 0.0339,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.3912,
+        "content_cleanup_final": 0.0223,
+        "media_svg": 0.442,
+        "youtube": 0.0236,
+        "content_assembly": 0.7877,
+        "monetization": 0.1015,
+        "quality_write": 0.0586
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_schuessler_case_buil_d5b36a_schuessler_interview_1b7f8a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8996,
+      "phases": {
+        "preparation": 0.0275,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.4384,
+        "content_cleanup_final": 0.0271,
+        "media_svg": 0.4607,
+        "youtube": 0.0215,
+        "content_assembly": 0.7764,
+        "monetization": 0.0866,
+        "quality_write": 0.0609
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_schuessler_case_buil_d5b36a_schuessler_helicopte_aec051",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.6959,
+      "phases": {
+        "preparation": 0.0351,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.394,
+        "content_cleanup_final": 0.0241,
+        "media_svg": 0.456,
+        "youtube": 0.0184,
+        "content_assembly": 0.7666,
+        "monetization": 0.9485,
+        "quality_write": 0.0525
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_secrecy_missing_reco_f32649_helicopter_scale_par_1ce541",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7745,
+      "phases": {
+        "preparation": 0.0302,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.3048,
+        "content_cleanup_final": 0.0217,
+        "media_svg": 0.4803,
+        "youtube": 0.0148,
+        "content_assembly": 0.7436,
+        "monetization": 0.1273,
+        "quality_write": 0.0513
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_schuessler_case_buil_d5b36a_schuessler_radiation_1af279",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.4653,
+      "phases": {
+        "preparation": 0.0201,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.2658,
+        "content_cleanup_final": 0.0185,
+        "media_svg": 0.4616,
+        "youtube": 0.0289,
+        "content_assembly": 0.774,
+        "monetization": 0.8446,
+        "quality_write": 0.0509
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_secrecy_missing_reco_f32649_military_record_frag_ed019c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8469,
+      "phases": {
+        "preparation": 0.0286,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.4486,
+        "content_cleanup_final": 0.0196,
+        "media_svg": 0.4406,
+        "youtube": 0.0157,
+        "content_assembly": 0.703,
+        "monetization": 0.1436,
+        "quality_write": 0.0467
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_secret_aircraft_theo_cabae6_diamond_shape_proble_c64d55",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8965,
+      "phases": {
+        "preparation": 0.0229,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.4031,
+        "content_cleanup_final": 0.0179,
+        "media_svg": 0.4803,
+        "youtube": 0.0219,
+        "content_assembly": 0.7564,
+        "monetization": 0.1406,
+        "quality_write": 0.0529
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_secret_aircraft_theo_cabae6_secret_program_prece_ae0ff8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9705,
+      "phases": {
+        "preparation": 0.0219,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.5198,
+        "content_cleanup_final": 0.0234,
+        "media_svg": 0.4618,
+        "youtube": 0.0169,
+        "content_assembly": 0.7482,
+        "monetization": 0.1273,
+        "quality_write": 0.0504
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_shared_memory_stress_441454_colby_prompted_recal_f75347",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.0078,
+      "phases": {
+        "preparation": 0.0216,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.5766,
+        "content_cleanup_final": 0.0183,
+        "media_svg": 0.4682,
+        "youtube": 0.019,
+        "content_assembly": 0.7717,
+        "monetization": 0.0871,
+        "quality_write": 0.0446
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_shared_memory_stress_441454_helicopter_number_me_620c99",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8368,
+      "phases": {
+        "preparation": 0.0301,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.3987,
+        "content_cleanup_final": 0.023,
+        "media_svg": 0.437,
+        "youtube": 0.0168,
+        "content_assembly": 0.764,
+        "monetization": 0.1203,
+        "quality_write": 0.0465
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_shared_memory_stress_441454_joint_interview_fals_ff3b02",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.762,
+      "phases": {
+        "preparation": 0.021,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.31,
+        "content_cleanup_final": 0.0233,
+        "media_svg": 0.4484,
+        "youtube": 0.0273,
+        "content_assembly": 0.7905,
+        "monetization": 0.0893,
+        "quality_write": 0.0515
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_shared_memory_stress_441454_military_id_posteven_472cf0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8795,
+      "phases": {
+        "preparation": 0.023,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 2.4125,
+        "content_cleanup_final": 0.0229,
+        "media_svg": 0.4707,
+        "youtube": 0.0225,
+        "content_assembly": 0.7508,
+        "monetization": 0.1157,
+        "quality_write": 0.0601
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_walker_helicopter_si_ac910f_walker_cash_flight_p_627807",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7244,
+      "phases": {
+        "preparation": 0.0275,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.3584,
+        "content_cleanup_final": 0.0163,
+        "media_svg": 0.4453,
+        "youtube": 0.0295,
+        "content_assembly": 0.6638,
+        "monetization": 0.1167,
+        "quality_write": 0.0664
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_shared_memory_stress_441454_seven_month_memory_r_9f827a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.6072,
+      "phases": {
+        "preparation": 0.0262,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.3668,
+        "content_cleanup_final": 0.0287,
+        "media_svg": 0.475,
+        "youtube": 0.0284,
+        "content_assembly": 0.7603,
+        "monetization": 1.8731,
+        "quality_write": 0.0483
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_shared_memory_stress_441454_stress_roadside_deta_83ab70",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.5099,
+      "phases": {
+        "preparation": 0.0258,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.4502,
+        "content_cleanup_final": 0.0247,
+        "media_svg": 0.4523,
+        "youtube": 0.0119,
+        "content_assembly": 0.7369,
+        "monetization": 1.7551,
+        "quality_write": 0.0524
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_walker_helicopter_si_ac910f_walker_helicopter_co_4b6c43",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5955,
+      "phases": {
+        "preparation": 0.0196,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.2437,
+        "content_cleanup_final": 0.0191,
+        "media_svg": 0.4095,
+        "youtube": 0.0229,
+        "content_assembly": 0.7073,
+        "monetization": 0.1286,
+        "quality_write": 0.0444
+      }
+    },
+    {
+      "base_name": "cash_landrum_ufo_inc_db9d45_witness_account_chan_33e460_first_observer_confl_e056fe",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4853,
+      "phases": {
+        "preparation": 0.0308,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.1947,
+        "content_cleanup_final": 0.0176,
+        "media_svg": 0.4131,
+        "youtube": 0.0157,
+        "content_assembly": 0.6448,
+        "monetization": 0.1202,
+        "quality_write": 0.0478
+      }
+    }
+  ],
+  "parallel": {
+    "enabled": true,
+    "mode": "process",
+    "worker_count": 3,
+    "workers_raw": "auto",
+    "max_workers": 3,
+    "progress_interval_seconds": 60.0,
+    "queued_rebuild_pages": 96,
+    "reused_pages": 115,
+    "rebuilt_pages": 96,
+    "error_pages": 0,
+    "page_work_wall_seconds": 160.1114,
+    "rebuilt_pages_per_minute": 35.975,
+    "queued_rebuild_pages_per_minute": 35.975,
+    "apparent_page_work_speedup": 2.4689,
+    "youtube_cache_prepare": {
+      "entries": 40204,
+      "updated": true,
+      "elapsed_seconds": 3.8088
+    },
+    "process_worker_diagnostics": {
+      "completed_pages": 96,
+      "successful_pages": 96,
+      "failed_pages": 0,
+      "worker_summary": {
+        "20392": {
+          "pages": 33,
+          "successes": 33,
+          "failures": 0,
+          "total_worker_seconds": 137.7226,
+          "max_worker_seconds": 7.8308,
+          "last_base_name": "cash_landrum_ufo_inc_db9d45_walker_helicopter_si_ac910f_walker_helicopter_co_4b6c43"
+        },
+        "11568": {
+          "pages": 31,
+          "successes": 31,
+          "failures": 0,
+          "total_worker_seconds": 132.2587,
+          "max_worker_seconds": 7.8552,
+          "last_base_name": "cash_landrum_ufo_inc_db9d45_shared_memory_stress_441454_stress_roadside_deta_83ab70"
+        },
+        "9848": {
+          "pages": 32,
+          "successes": 32,
+          "failures": 0,
+          "total_worker_seconds": 132.0715,
+          "max_worker_seconds": 7.2554,
+          "last_base_name": "cash_landrum_ufo_inc_db9d45_witness_account_chan_33e460_first_observer_confl_e056fe"
+        }
+      },
+      "slowest_worker_pages": [
+        {
+          "base_name": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+          "level": 2,
+          "success": true,
+          "worker_pid": 11568,
+          "worker_duration_seconds": 7.8552,
+          "total_seconds": 7.7461,
+          "worker_started_at_utc": "2026-08-06T09:13:29.675452Z",
+          "worker_finished_at_utc": "2026-08-06T09:13:37.421603Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "cash_landrum_ufo_inc_db9d45",
+          "level": 1,
+          "success": true,
+          "worker_pid": 20392,
+          "worker_duration_seconds": 7.8308,
+          "total_seconds": 7.7185,
+          "worker_started_at_utc": "2026-08-06T09:13:26.500648Z",
+          "worker_finished_at_utc": "2026-08-06T09:13:34.219239Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+          "level": 2,
+          "success": true,
+          "worker_pid": 9848,
+          "worker_duration_seconds": 7.2554,
+          "total_seconds": 7.1547,
+          "worker_started_at_utc": "2026-08-06T09:13:33.089458Z",
+          "worker_finished_at_utc": "2026-08-06T09:13:40.244218Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "cash_landrum_ufo_inc_db9d45_secret_aircraft_theo_cabae6",
+          "level": 2,
+          "success": true,
+          "worker_pid": 20392,
+          "worker_duration_seconds": 6.214,
+          "total_seconds": 6.1213,
+          "worker_started_at_utc": "2026-08-06T09:14:06.739707Z",
+          "worker_finished_at_utc": "2026-08-06T09:14:12.861061Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "cash_landrum_ufo_inc_db9d45_aircraft_misidentifi_a1d4cf_multiple_aircraft_sc_c6fa94",
+          "level": 3,
+          "success": true,
+          "worker_pid": 11568,
+          "worker_duration_seconds": 5.8135,
+          "total_seconds": 5.7548,
+          "worker_started_at_utc": "2026-08-06T09:14:43.159508Z",
+          "worker_finished_at_utc": "2026-08-06T09:14:48.914357Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "cash_landrum_ufo_inc_db9d45_shared_memory_stress_441454_seven_month_memory_r_9f827a",
+          "level": 3,
+          "success": true,
+          "worker_pid": 9848,
+          "worker_duration_seconds": 5.6594,
+          "total_seconds": 5.6072,
+          "worker_started_at_utc": "2026-08-06T09:15:36.011948Z",
+          "worker_finished_at_utc": "2026-08-06T09:15:41.619194Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "cash_landrum_ufo_inc_db9d45_shared_memory_stress_441454_stress_roadside_deta_83ab70",
+          "level": 3,
+          "success": true,
+          "worker_pid": 11568,
+          "worker_duration_seconds": 5.559,
+          "total_seconds": 5.5099,
+          "worker_started_at_utc": "2026-08-06T09:15:36.441039Z",
+          "worker_finished_at_utc": "2026-08-06T09:15:41.951001Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "cash_landrum_ufo_inc_db9d45_night_encounter_time_39b32d_helicopter_formation_ee2d34",
+          "level": 3,
+          "success": true,
+          "worker_pid": 9848,
+          "worker_duration_seconds": 5.2967,
+          "total_seconds": 5.2321,
+          "worker_started_at_utc": "2026-08-06T09:15:11.231640Z",
+          "worker_finished_at_utc": "2026-08-06T09:15:16.463830Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "cash_landrum_ufo_inc_db9d45_aircraft_misidentifi_a1d4cf",
+          "level": 2,
+          "success": true,
+          "worker_pid": 11568,
+          "worker_duration_seconds": 5.1059,
+          "total_seconds": 4.9856,
+          "worker_started_at_utc": "2026-08-06T09:13:41.466660Z",
+          "worker_finished_at_utc": "2026-08-06T09:13:46.452255Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "cash_landrum_ufo_inc_db9d45_shared_memory_stress_441454",
+          "level": 2,
+          "success": true,
+          "worker_pid": 11568,
+          "worker_duration_seconds": 4.872,
+          "total_seconds": 4.7704,
+          "worker_started_at_utc": "2026-08-06T09:14:07.030599Z",
+          "worker_finished_at_utc": "2026-08-06T09:14:11.801000Z",
+          "result_merge_seconds": 0.0
+        }
+      ]
+    }
+  }
+}

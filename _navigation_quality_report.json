@@ -1,0 +1,2491 @@
+{
+  "generated_at_utc": "2026-08-06T09:16:40.396953Z",
+  "summary": {
+    "total_pages_with_permalink": 242,
+    "visible_pages": 211,
+    "hidden_pages": 31,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 1348,
+    "inline_internal_target_page_count": 211,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 211,
+    "visible_pages_without_inline_outbound_links": 0,
+    "average_inline_inbound_links_per_visible_page": 6.39,
+    "unresolved_inline_internal_target_count": 0,
+    "related_report_edge_count": 0,
+    "related_report_cross_root_edge_count": 0,
+    "related_report_target_page_count": 0,
+    "visible_pages_with_related_report_panel": 0,
+    "visible_pages_without_related_report_panel": 211,
+    "related_report_panel_coverage_percent": 0.0,
+    "average_related_report_links_per_visible_page": 0.0,
+    "unresolved_related_report_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "visible_without_inline_outbound_links": [],
+    "visible_without_related_report_panel": [
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45",
+        "title": "Why the Cash Landrum Case Still Defies Resolution",
+        "permalink": "/cash-landrum-ufo-incident/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_administrative_claim_4bc9ad",
+        "title": "Claims Process",
+        "permalink": "/claims-process/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_administrative_claim_4bc9ad_air_force_denial_red_8a381f",
+        "title": "Denials and Redactions",
+        "permalink": "/denials-and-redactions/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_administrative_claim_4bc9ad_bergstrom_legal_inte_2ebb71",
+        "title": "Bergstrom Interview",
+        "permalink": "/bergstrom-interview-982ea8/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_administrative_claim_4bc9ad_claim_filing_delay_bf1d3e",
+        "title": "Filing Delay",
+        "permalink": "/filing-delay/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_administrative_claim_4bc9ad_claims_path_to_feder_8ae34e",
+        "title": "Path to Court",
+        "permalink": "/path-to-court/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_administrative_claim_4bc9ad_helicopter_attributi_af9912",
+        "title": "Attribution Problem",
+        "permalink": "/attribution-problem/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_administrative_claim_4bc9ad_senator_claims_refer_1c28f8",
+        "title": "Senator Referrals",
+        "permalink": "/senator-referrals/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_aircraft_misidentifi_a1d4cf",
+        "title": "Misidentification",
+        "permalink": "/misidentification/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_aircraft_misidentifi_a1d4cf_aircraft_exhaust_fla_005081",
+        "title": "Flame Claim",
+        "permalink": "/flame-claim/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_aircraft_misidentifi_a1d4cf_dayton_searchlight_t_3e9512",
+        "title": "Dayton Witnesses",
+        "permalink": "/dayton-witnesses/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_aircraft_misidentifi_a1d4cf_head_on_hovering_lig_6a72fe",
+        "title": "Hovering Light",
+        "permalink": "/hovering-light/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_aircraft_misidentifi_a1d4cf_helicopter_noise_cou_81f171",
+        "title": "Rotor Confusion",
+        "permalink": "/rotor-confusion/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_aircraft_misidentifi_a1d4cf_multiple_aircraft_sc_c6fa94",
+        "title": "Compound Event",
+        "permalink": "/compound-event/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_aircraft_misidentifi_a1d4cf_night_distance_error_d54893",
+        "title": "Night Distance",
+        "permalink": "/night-distance/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_bergstrom_recorded_i_ced9f1",
+        "title": "Bergstrom Interview",
+        "permalink": "/bergstrom-interview/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_bergstrom_recorded_i_ced9f1_bergstrom_chinook_id_99c973",
+        "title": "Chinook ID",
+        "permalink": "/chinook-id/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_bergstrom_recorded_i_ced9f1_bergstrom_claims_mee_6d962a",
+        "title": "Claims Meeting",
+        "permalink": "/claims-meeting/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_bergstrom_recorded_i_ced9f1_bergstrom_location_m_a72c29",
+        "title": "Map Problem",
+        "permalink": "/map-problem/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_bergstrom_recorded_i_ced9f1_bergstrom_time_estim_42c485",
+        "title": "Time Estimate",
+        "permalink": "/time-estimate/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_bergstrom_recorded_i_ced9f1_colby_bergstrom_test_5c96f8",
+        "title": "Colby s Testimony",
+        "permalink": "/colby-s-testimony/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_bergstrom_recorded_i_ced9f1_landrum_air_force_co_89da4a",
+        "title": "Ownership Dispute",
+        "permalink": "/ownership-dispute/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db",
+        "title": "Betty Cash",
+        "permalink": "/betty-cash/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db_cash_hair_skin_injur_484af4",
+        "title": "Visible Injuries",
+        "permalink": "/visible-injuries/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db_cash_hospital_timeli_6aa80c",
+        "title": "Hospital Record",
+        "permalink": "/hospital-record/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db_cash_long_illness_ca_c0dda9",
+        "title": "Long Illness",
+        "permalink": "/long-illness/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db_cash_overheated_car_b61eeb",
+        "title": "Hot Car Claim",
+        "permalink": "/hot-car-claim/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db_cash_radiation_claim_cc5889",
+        "title": "Radiation Claim",
+        "permalink": "/radiation-claim-4e47de/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db_cash_testimony_relia_d36ed6",
+        "title": "Her Testimony",
+        "permalink": "/her-testimony/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "title": "Heat Claims",
+        "permalink": "/heat-claims/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231_cabin_heat_ac_claim_4ee17d",
+        "title": "Cabin Heat",
+        "permalink": "/cabin-heat/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231_car_inspection_delay_c7094f",
+        "title": "Inspection Delay",
+        "permalink": "/inspection-delay/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231_dashboard_handprint_d9072d",
+        "title": "Dashboard Marks",
+        "permalink": "/dashboard-marks/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231_landrum_arm_bodywork_3d6fdd",
+        "title": "Arm Contact",
+        "permalink": "/arm-contact/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231_missing_heat_damage_309aa8",
+        "title": "Missing Damage",
+        "permalink": "/missing-damage/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231_radiant_heat_windscr_0ab9ff",
+        "title": "Heat Path",
+        "permalink": "/heat-path/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_cash_hospital_record_019b0f",
+        "title": "Hospital Records",
+        "permalink": "/hospital-records/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_cash_hospital_record_019b0f_cash_admission_vital_3e2a3e",
+        "title": "Vital Signs",
+        "permalink": "/vital-signs/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_cash_hospital_record_019b0f_cash_alopecia_areata_12a441",
+        "title": "Alopecia",
+        "permalink": "/alopecia/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_cash_hospital_record_019b0f_cash_cellulitis_diag_433a26",
+        "title": "Cellulitis",
+        "permalink": "/cellulitis/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_cash_hospital_record_019b0f_cash_findings_vs_lab_bb1704",
+        "title": "Later Labels",
+        "permalink": "/later-labels/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_cash_hospital_record_019b0f_cash_local_vs_whole_713796",
+        "title": "Exposure Type",
+        "permalink": "/exposure-type/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_cash_hospital_record_019b0f_cash_missing_radiati_e3dde8",
+        "title": "Missing Tests",
+        "permalink": "/missing-tests-3113d1/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_chinook_formation_cl_8c8e62",
+        "title": "Helicopters",
+        "permalink": "/helicopters/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_chinook_formation_cl_8c8e62_air_force_marking_co_f41ff9",
+        "title": "Marking Conflict",
+        "permalink": "/marking-conflict/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_chinook_formation_cl_8c8e62_army_helicopter_inqu_afea59",
+        "title": "Army Inquiry",
+        "permalink": "/army-inquiry-2728d6/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_chinook_formation_cl_8c8e62_chinook_identificati_14d4b6",
+        "title": "Chinook ID",
+        "permalink": "/chinook-id-2075cd/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_chinook_formation_cl_8c8e62_helicopter_count_rel_6f355e",
+        "title": "The Reported Helicopter Count",
+        "permalink": "/the-reported-helicopter-count/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_chinook_formation_cl_8c8e62_large_formation_miss_172d68",
+        "title": "Missing Trace",
+        "permalink": "/missing-trace/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_chinook_formation_cl_8c8e62_walker_helicopter_si_ac910f",
+        "title": "Walker Sighting",
+        "permalink": "/walker-sighting-0a89bd/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5",
+        "title": "Colby Landrum",
+        "permalink": "/colby-landrum/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5_colby_car_view_f9c0f2",
+        "title": "Car View",
+        "permalink": "/car-view/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5_colby_chinook_fear_b99427",
+        "title": "Chinook Fear",
+        "permalink": "/chinook-fear/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5_colby_diamond_memory_63666d",
+        "title": "Diamond Memory",
+        "permalink": "/diamond-memory/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5_colby_family_memory_c845c6",
+        "title": "Family Influence",
+        "permalink": "/family-influence/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5_colby_health_claims_213e8d",
+        "title": "Health Claims",
+        "permalink": "/health-claims/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5_colby_later_testimon_468a43",
+        "title": "Later Testimony",
+        "permalink": "/later-testimony/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_court_dismissal_mean_d82e1e",
+        "title": "Court Dismissal",
+        "permalink": "/court-dismissal/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_court_dismissal_mean_d82e1e_dismissal_not_decide_9e1e87",
+        "title": "Not Decided",
+        "permalink": "/not-decided/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_court_dismissal_mean_d82e1e_ftca_attribution_bar_ec3aff",
+        "title": "FTCA Barrier",
+        "permalink": "/ftca-barrier/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_court_dismissal_mean_d82e1e_government_sworn_den_3e96e5",
+        "title": "Sworn Denials",
+        "permalink": "/sworn-denials/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_court_dismissal_mean_d82e1e_helicopters_federal_2d778f",
+        "title": "Helicopter Proof",
+        "permalink": "/helicopter-proof/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_court_dismissal_mean_d82e1e_military_inquiries_n_0e790e",
+        "title": "Prior Inquiries",
+        "permalink": "/prior-inquiries/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_court_dismissal_mean_d82e1e_rules_12_56_dismissa_0ea56e",
+        "title": "Court Rules",
+        "permalink": "/court-rules/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7",
+        "title": "The Object",
+        "permalink": "/the-object/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7_downward_flame_limit_e3b4fd",
+        "title": "Downward Flame",
+        "permalink": "/downward-flame/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7_glare_apparent_verti_37e9c4",
+        "title": "Apparent Motion",
+        "permalink": "/apparent-motion/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7_object_size_distance_642e1c",
+        "title": "Size and Range",
+        "permalink": "/size-and-range/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7_surface_detail_uncer_e61272",
+        "title": "Surface Detail",
+        "permalink": "/surface-detail/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7_treeline_position_an_cc7ad1",
+        "title": "Treeline Anchor",
+        "permalink": "/treeline-anchor/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7_upright_diamond_reco_4ed211",
+        "title": "Diamond Shape",
+        "permalink": "/diamond-shape/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_federal_lawsuit_stra_9deab6",
+        "title": "Legal Strategy",
+        "permalink": "/legal-strategy/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_federal_lawsuit_stra_9deab6_air_force_claim_deni_704ddd",
+        "title": "Agency Denial",
+        "permalink": "/agency-denial/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_federal_lawsuit_stra_9deab6_discretionary_functi_6a5ee4",
+        "title": "Immunity Risk",
+        "permalink": "/immunity-risk/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_federal_lawsuit_stra_9deab6_evidence_to_survive_00971f",
+        "title": "Missing Proof",
+        "permalink": "/missing-proof/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_federal_lawsuit_stra_9deab6_helicopters_federal_2d778f",
+        "title": "Federal Control",
+        "permalink": "/federal-control/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_federal_lawsuit_stra_9deab6_medical_records_caus_9afb1b",
+        "title": "Medical Causation",
+        "permalink": "/medical-causation/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_federal_lawsuit_stra_9deab6_ownership_not_neglig_07b083",
+        "title": "Ownership vs Fault",
+        "permalink": "/ownership-vs-fault/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "title": "Flame Plume",
+        "permalink": "/flame-plume/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e_bergstrom_flame_acco_38bc97",
+        "title": "Bergstrom Account",
+        "permalink": "/bergstrom-account/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e_broad_flame_or_jets_98cc51",
+        "title": "Flame Shape",
+        "permalink": "/flame-shape/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e_glare_perspective_th_65786e",
+        "title": "Visual Effects",
+        "permalink": "/visual-effects/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e_missing_plume_ground_6007c9",
+        "title": "Ground Effects",
+        "permalink": "/ground-effects/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e_plume_lift_claim_37217d",
+        "title": "Lift Claim",
+        "permalink": "/lift-claim/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e_uncertain_site_plume_407be3",
+        "title": "Lost Site",
+        "permalink": "/lost-site/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+        "title": "Hair Loss",
+        "permalink": "/hair-loss/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba_alopecia_areata_expl_8d0f57",
+        "title": "Alopecia Areata",
+        "permalink": "/alopecia-areata/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba_cash_hair_loss_timel_5df475",
+        "title": "Hair Timeline",
+        "permalink": "/hair-timeline/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba_cash_hair_record_lim_e3ed7a",
+        "title": "Medical Record",
+        "permalink": "/medical-record/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba_hair_loss_pattern_cl_1b4153",
+        "title": "Loss Pattern",
+        "permalink": "/loss-pattern/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba_immediate_hair_loss_657a87",
+        "title": "Legend Shift",
+        "permalink": "/legend-shift/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba_radiation_epilation_b057f8",
+        "title": "Radiation Dose",
+        "permalink": "/radiation-dose/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "title": "Heat or Radiation",
+        "permalink": "/heat-or-radiation/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0_chromosome_test_miss_6a6543",
+        "title": "Chromosome Tests",
+        "permalink": "/chromosome-tests/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0_delayed_radiation_sk_6353ce",
+        "title": "Delayed Skin",
+        "permalink": "/delayed-skin/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0_immediate_pain_therm_0faea9",
+        "title": "Immediate Pain",
+        "permalink": "/immediate-pain/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0_radiation_blood_coun_0b73f1",
+        "title": "Blood Counts",
+        "permalink": "/blood-counts/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0_symptom_overlap_not_32b7b0",
+        "title": "Symptom Overlap",
+        "permalink": "/symptom-overlap/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0_vehicle_clothing_sce_ad1774",
+        "title": "Scene Testing",
+        "permalink": "/scene-testing/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_helicopter_mission_l_4a4fa2",
+        "title": "Mission Logistics",
+        "permalink": "/mission-logistics/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_helicopter_mission_l_4a4fa2_chinook_fuel_footpri_af0365",
+        "title": "Fuel Footprint",
+        "permalink": "/fuel-footprint/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_helicopter_mission_l_4a4fa2_helicopter_mission_r_cb22f7",
+        "title": "Record Trail",
+        "permalink": "/record-trail/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_helicopter_mission_l_4a4fa2_holiday_night_helico_1e820c",
+        "title": "Holiday Launch",
+        "permalink": "/holiday-launch/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_helicopter_mission_l_4a4fa2_houston_chinook_avai_61a6a8",
+        "title": "Fleet Availability",
+        "permalink": "/fleet-availability/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_helicopter_mission_l_4a4fa2_possible_departure_b_94eb0a",
+        "title": "Departure Bases",
+        "permalink": "/departure-bases/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_helicopter_mission_l_4a4fa2_twenty_three_helicop_c4fccd",
+        "title": "Personnel Scale",
+        "permalink": "/personnel-scale/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_lawsuit_proof_limits_46cf1c",
+        "title": "Legal Myths",
+        "permalink": "/legal-myths/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_lawsuit_proof_limits_46cf1c_agency_affidavits_li_27409b",
+        "title": "Agency Affidavits",
+        "permalink": "/agency-affidavits/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_lawsuit_proof_limits_46cf1c_complaint_claims_not_115830",
+        "title": "Complaint Claims",
+        "permalink": "/complaint-claims/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_lawsuit_proof_limits_46cf1c_dismissal_order_scop_9ef796",
+        "title": "Dismissal Order",
+        "permalink": "/dismissal-order/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_lawsuit_proof_limits_46cf1c_federal_ownership_ga_0da1d5",
+        "title": "Ownership Gap",
+        "permalink": "/ownership-gap/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_lawsuit_proof_limits_46cf1c_ftca_limits_ufo_myst_62341c",
+        "title": "Legal Limits",
+        "permalink": "/legal-limits/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_lawsuit_proof_limits_46cf1c_twenty_million_claim_bbc351",
+        "title": "20 M Myth",
+        "permalink": "/20-m-myth/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "title": "The Car",
+        "permalink": "/the-car/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41_car_inspection_delay_c7094f",
+        "title": "Inspection Delay",
+        "permalink": "/inspection-delay-769c68/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41_continued_driving_ba_6a1c95",
+        "title": "Baseline Loss",
+        "permalink": "/baseline-loss/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41_dashboard_handprints_6e745a",
+        "title": "Dashboard Marks",
+        "permalink": "/dashboard-marks-8e5162/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41_missing_car_lab_resu_05901a",
+        "title": "Missing Tests",
+        "permalink": "/missing-tests/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41_missing_preincident_8d8171",
+        "title": "Missing Baseline",
+        "permalink": "/missing-baseline/"
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41_negative_radiation_s_f2c963",
+        "title": "Radiation Survey",
+        "permalink": "/radiation-survey/"
+      }
+    ],
+    "top_inline_internal_targets": [
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db",
+        "title": "Betty Cash",
+        "permalink": "/betty-cash/",
+        "inline_inbound_count": 138
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007",
+        "title": "Vickie Landrum",
+        "permalink": "/vickie-landrum/",
+        "inline_inbound_count": 122
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7",
+        "title": "The Object",
+        "permalink": "/the-object/",
+        "inline_inbound_count": 114
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5",
+        "title": "Colby Landrum",
+        "permalink": "/colby-landrum/",
+        "inline_inbound_count": 85
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45",
+        "title": "Why the Cash Landrum Case Still Defies Resolution",
+        "permalink": "/cash-landrum-ufo-incident/",
+        "inline_inbound_count": 71
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "title": "The Car",
+        "permalink": "/the-car/",
+        "inline_inbound_count": 60
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba_cash_hair_record_lim_e3ed7a",
+        "title": "Medical Record",
+        "permalink": "/medical-record/",
+        "inline_inbound_count": 49
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_schuessler_case_buil_d5b36a",
+        "title": "John Schuessler",
+        "permalink": "/john-schuessler/",
+        "inline_inbound_count": 46
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+        "title": "Hair Loss",
+        "permalink": "/hair-loss/",
+        "inline_inbound_count": 44
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_night_encounter_time_39b32d_helicopter_formation_ee2d34",
+        "title": "Helicopters",
+        "permalink": "/helicopters-977f69/",
+        "inline_inbound_count": 27
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_walker_helicopter_si_ac910f_walker_downward_ligh_6ec7e0",
+        "title": "Bright Light",
+        "permalink": "/bright-light/",
+        "inline_inbound_count": 27
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_witness_account_chan_33e460_twenty_three_helicop_3bd912",
+        "title": "23 Helicopters",
+        "permalink": "/23-helicopters/",
+        "inline_inbound_count": 26
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_radiation_sickness_c_5b60f3",
+        "title": "Radiation Claim",
+        "permalink": "/radiation-claim/",
+        "inline_inbound_count": 23
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_reported_medical_sym_9f9547",
+        "title": "Reported Symptoms",
+        "permalink": "/reported-symptoms/",
+        "inline_inbound_count": 23
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_administrative_claim_4bc9ad",
+        "title": "Claims Process",
+        "permalink": "/claims-process/",
+        "inline_inbound_count": 22
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba_radiation_epilation_b057f8",
+        "title": "Radiation Dose",
+        "permalink": "/radiation-dose/",
+        "inline_inbound_count": 21
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_lawsuit_proof_limits_46cf1c_federal_ownership_ga_0da1d5",
+        "title": "Ownership Gap",
+        "permalink": "/ownership-gap/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_roadside_site_eviden_731212",
+        "title": "Encounter Site",
+        "permalink": "/encounter-site/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_shared_memory_stress_441454_helicopter_number_me_620c99",
+        "title": "Helicopter Count",
+        "permalink": "/helicopter-count/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_cash_hospital_record_019b0f_cash_alopecia_areata_12a441",
+        "title": "Alopecia",
+        "permalink": "/alopecia/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41_continued_driving_ba_6a1c95",
+        "title": "Baseline Loss",
+        "permalink": "/baseline-loss/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_military_ownership_d_e558cd_missing_flight_recor_6747e9",
+        "title": "Missing Records",
+        "permalink": "/missing-records/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_secret_aircraft_theo_cabae6",
+        "title": "Secret Aircraft",
+        "permalink": "/secret-aircraft/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7_downward_flame_limit_e3b4fd",
+        "title": "Downward Flame",
+        "permalink": "/downward-flame/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_cash_hospital_record_019b0f_cash_cellulitis_diag_433a26",
+        "title": "Cellulitis",
+        "permalink": "/cellulitis/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db_cash_testimony_relia_d36ed6",
+        "title": "Her Testimony",
+        "permalink": "/her-testimony/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba_alopecia_areata_expl_8d0f57",
+        "title": "Alopecia Areata",
+        "permalink": "/alopecia-areata/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_secrecy_missing_reco_f32649",
+        "title": "Secrecy Theory",
+        "permalink": "/secrecy-theory/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_military_ownership_d_e558cd",
+        "title": "Military Denials",
+        "permalink": "/military-denials/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_radiation_sickness_c_5b60f3_serial_blood_counts_484353",
+        "title": "Blood Counts",
+        "permalink": "/blood-counts-a88e65/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_witness_account_chan_33e460_blue_lights_after_hy_a0870d",
+        "title": "Blue Lights",
+        "permalink": "/blue-lights/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_aircraft_misidentifi_a1d4cf",
+        "title": "Misidentification",
+        "permalink": "/misidentification/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_court_dismissal_mean_d82e1e_government_sworn_den_3e96e5",
+        "title": "Sworn Denials",
+        "permalink": "/sworn-denials/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7_surface_detail_uncer_e61272",
+        "title": "Surface Detail",
+        "permalink": "/surface-detail/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_federal_lawsuit_stra_9deab6_helicopters_federal_2d778f",
+        "title": "Federal Control",
+        "permalink": "/federal-control/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "title": "Heat or Radiation",
+        "permalink": "/heat-or-radiation/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_secrecy_missing_reco_f32649_classified_mission_r_86e5a7",
+        "title": "Classified Mission",
+        "permalink": "/classified-mission/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_witness_account_chan_33e460_late_scorched_road_c_03241b",
+        "title": "Scorched Road",
+        "permalink": "/scorched-road/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_aircraft_misidentifi_a1d4cf_multiple_aircraft_sc_c6fa94",
+        "title": "Compound Event",
+        "permalink": "/compound-event/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db_cash_hair_skin_injur_484af4",
+        "title": "Visible Injuries",
+        "permalink": "/visible-injuries/",
+        "inline_inbound_count": 4
+      }
+    ],
+    "top_related_report_targets": [],
+    "unresolved_inline_internal_targets": [],
+    "unresolved_related_report_targets": [],
+    "edge_samples": [
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_administrative_claim_4bc9ad",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_aircraft_misidentifi_a1d4cf",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_bergstrom_recorded_i_ced9f1",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_cash_hospital_record_019b0f",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_chinook_formation_cl_8c8e62",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_court_dismissal_mean_d82e1e",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_federal_lawsuit_stra_9deab6",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_helicopter_mission_l_4a4fa2",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_index",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_lawsuit_proof_limits_46cf1c",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_military_ownership_d_e558cd",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_missing_radiation_me_a2ab01",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_night_encounter_time_39b32d",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_radiation_sickness_c_5b60f3",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_reported_medical_sym_9f9547",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_roadside_site_eviden_731212",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_schuessler_case_buil_d5b36a",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_secrecy_missing_reco_f32649",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_secret_aircraft_theo_cabae6",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_shared_memory_stress_441454",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_walker_helicopter_si_ac910f",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_witness_account_chan_33e460",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45",
+        "type": "parent"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_administrative_claim_4bc9ad",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_aircraft_misidentifi_a1d4cf",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_bergstrom_recorded_i_ced9f1",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_cash_hospital_record_019b0f",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_chinook_formation_cl_8c8e62",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_court_dismissal_mean_d82e1e",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_federal_lawsuit_stra_9deab6",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_helicopter_mission_l_4a4fa2",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_lawsuit_proof_limits_46cf1c",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_military_ownership_d_e558cd",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_missing_radiation_me_a2ab01",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_night_encounter_time_39b32d",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_radiation_sickness_c_5b60f3",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_reported_medical_sym_9f9547",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_roadside_site_eviden_731212",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_schuessler_case_buil_d5b36a",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_secrecy_missing_reco_f32649",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_secret_aircraft_theo_cabae6",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_shared_memory_stress_441454",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_walker_helicopter_si_ac910f",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_witness_account_chan_33e460",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231_cabin_heat_ac_claim_4ee17d",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231_car_inspection_delay_c7094f",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231_dashboard_handprint_d9072d",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231_index",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231_landrum_arm_bodywork_3d6fdd",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231_missing_heat_damage_309aa8",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231_radiant_heat_windscr_0ab9ff",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45",
+        "type": "ancestor"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45",
+        "type": "parent"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_administrative_claim_4bc9ad",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_aircraft_misidentifi_a1d4cf",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_bergstrom_recorded_i_ced9f1",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_cash_hospital_record_019b0f",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_chinook_formation_cl_8c8e62",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_court_dismissal_mean_d82e1e",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_federal_lawsuit_stra_9deab6",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_helicopter_mission_l_4a4fa2",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_lawsuit_proof_limits_46cf1c",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_military_ownership_d_e558cd",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_missing_radiation_me_a2ab01",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_night_encounter_time_39b32d",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_radiation_sickness_c_5b60f3",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_reported_medical_sym_9f9547",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_roadside_site_eviden_731212",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_schuessler_case_buil_d5b36a",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_secrecy_missing_reco_f32649",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_secret_aircraft_theo_cabae6",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_shared_memory_stress_441454",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_walker_helicopter_si_ac910f",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_witness_account_chan_33e460",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0_chromosome_test_miss_6a6543",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0_delayed_radiation_sk_6353ce",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0_immediate_pain_therm_0faea9",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0_index",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0_radiation_blood_coun_0b73f1",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0_symptom_overlap_not_32b7b0",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0_vehicle_clothing_sce_ad1774",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45",
+        "type": "ancestor"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45",
+        "type": "parent"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_administrative_claim_4bc9ad",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_aircraft_misidentifi_a1d4cf",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_bergstrom_recorded_i_ced9f1",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_cash_hospital_record_019b0f",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_chinook_formation_cl_8c8e62",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_court_dismissal_mean_d82e1e",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_federal_lawsuit_stra_9deab6",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_helicopter_mission_l_4a4fa2",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_lawsuit_proof_limits_46cf1c",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_military_ownership_d_e558cd",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_missing_radiation_me_a2ab01",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_night_encounter_time_39b32d",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_radiation_sickness_c_5b60f3",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_reported_medical_sym_9f9547",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_roadside_site_eviden_731212",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_schuessler_case_buil_d5b36a",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_secrecy_missing_reco_f32649",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_secret_aircraft_theo_cabae6",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_shared_memory_stress_441454",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_walker_helicopter_si_ac910f",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_witness_account_chan_33e460",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41_car_inspection_delay_c7094f",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41_continued_driving_ba_6a1c95",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41_dashboard_handprints_6e745a",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41_index",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41_missing_car_lab_resu_05901a",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41_missing_preincident_8d8171",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41_negative_radiation_s_f2c963",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45",
+        "type": "ancestor"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45",
+        "type": "parent"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_administrative_claim_4bc9ad",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_aircraft_misidentifi_a1d4cf",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_bergstrom_recorded_i_ced9f1",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_cash_hospital_record_019b0f",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_chinook_formation_cl_8c8e62",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_court_dismissal_mean_d82e1e",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_federal_lawsuit_stra_9deab6",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_helicopter_mission_l_4a4fa2",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_lawsuit_proof_limits_46cf1c",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_military_ownership_d_e558cd",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_missing_radiation_me_a2ab01",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_night_encounter_time_39b32d",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_radiation_sickness_c_5b60f3",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_reported_medical_sym_9f9547",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_roadside_site_eviden_731212",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_schuessler_case_buil_d5b36a",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_secrecy_missing_reco_f32649",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_secret_aircraft_theo_cabae6",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_shared_memory_stress_441454",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_walker_helicopter_si_ac910f",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_witness_account_chan_33e460",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e_bergstrom_flame_acco_38bc97",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e_broad_flame_or_jets_98cc51",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e_glare_perspective_th_65786e",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e_index",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e_missing_plume_ground_6007c9",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e_plume_lift_claim_37217d",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e_uncertain_site_plume_407be3",
+        "type": "child"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45",
+        "type": "ancestor"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+        "to": "cash_landrum_ufo_inc_db9d45",
+        "type": "parent"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+        "to": "cash_landrum_ufo_inc_db9d45_administrative_claim_4bc9ad",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+        "to": "cash_landrum_ufo_inc_db9d45_aircraft_misidentifi_a1d4cf",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+        "to": "cash_landrum_ufo_inc_db9d45_bergstrom_recorded_i_ced9f1",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+        "to": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+        "to": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+        "to": "cash_landrum_ufo_inc_db9d45_cash_hospital_record_019b0f",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+        "to": "cash_landrum_ufo_inc_db9d45_chinook_formation_cl_8c8e62",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+        "to": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+        "to": "cash_landrum_ufo_inc_db9d45_court_dismissal_mean_d82e1e",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+        "to": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+        "to": "cash_landrum_ufo_inc_db9d45_federal_lawsuit_stra_9deab6",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+        "to": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+        "to": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+        "to": "cash_landrum_ufo_inc_db9d45_helicopter_mission_l_4a4fa2",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+        "to": "cash_landrum_ufo_inc_db9d45_lawsuit_proof_limits_46cf1c",
+        "type": "sibling"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+        "to": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "type": "sibling"
+      }
+    ],
+    "inline_edge_samples": [
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba_alopecia_areata_expl_8d0f57",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_radiation_sickness_c_5b60f3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_secret_aircraft_theo_cabae6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45",
+        "to": "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231",
+        "to": "cash_landrum_ufo_inc_db9d45_schuessler_case_buil_d5b36a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_schuessler_case_buil_d5b36a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_radiation_sickness_c_5b60f3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "to": "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41_continued_driving_ba_6a1c95",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_schuessler_case_buil_d5b36a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41_missing_preincident_8d8171",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "to": "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_roadside_site_eviden_731212",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_witness_account_chan_33e460_late_scorched_road_c_03241b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_secret_aircraft_theo_cabae6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e",
+        "to": "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+        "to": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba_alopecia_areata_expl_8d0f57",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+        "to": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+        "to": "cash_landrum_ufo_inc_db9d45",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+        "to": "cash_landrum_ufo_inc_db9d45_schuessler_case_buil_d5b36a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+        "to": "cash_landrum_ufo_inc_db9d45_radiation_sickness_c_5b60f3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+        "to": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba_radiation_epilation_b057f8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+        "to": "cash_landrum_ufo_inc_db9d45_reported_medical_sym_9f9547",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+        "to": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5",
+        "to": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5",
+        "to": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5",
+        "to": "cash_landrum_ufo_inc_db9d45_reported_medical_sym_9f9547",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5",
+        "to": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5",
+        "to": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5",
+        "to": "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_administrative_claim_4bc9ad",
+        "to": "cash_landrum_ufo_inc_db9d45_administrative_claim_4bc9ad_helicopter_attributi_af9912",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_administrative_claim_4bc9ad",
+        "to": "cash_landrum_ufo_inc_db9d45_bergstrom_recorded_i_ced9f1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_administrative_claim_4bc9ad",
+        "to": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_administrative_claim_4bc9ad",
+        "to": "cash_landrum_ufo_inc_db9d45",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_administrative_claim_4bc9ad",
+        "to": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_administrative_claim_4bc9ad",
+        "to": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_administrative_claim_4bc9ad",
+        "to": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_administrative_claim_4bc9ad",
+        "to": "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_aircraft_misidentifi_a1d4cf",
+        "to": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41_continued_driving_ba_6a1c95",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_aircraft_misidentifi_a1d4cf",
+        "to": "cash_landrum_ufo_inc_db9d45_walker_helicopter_si_ac910f_walker_downward_ligh_6ec7e0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_aircraft_misidentifi_a1d4cf",
+        "to": "cash_landrum_ufo_inc_db9d45_aircraft_misidentifi_a1d4cf_multiple_aircraft_sc_c6fa94",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_aircraft_misidentifi_a1d4cf",
+        "to": "cash_landrum_ufo_inc_db9d45_shared_memory_stress_441454_helicopter_number_me_620c99",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_aircraft_misidentifi_a1d4cf",
+        "to": "cash_landrum_ufo_inc_db9d45_night_encounter_time_39b32d_helicopter_formation_ee2d34",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_aircraft_misidentifi_a1d4cf",
+        "to": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_aircraft_misidentifi_a1d4cf",
+        "to": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_aircraft_misidentifi_a1d4cf",
+        "to": "cash_landrum_ufo_inc_db9d45_bergstrom_recorded_i_ced9f1_bergstrom_time_estim_42c485",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_recorded_i_ced9f1",
+        "to": "cash_landrum_ufo_inc_db9d45_witness_account_chan_33e460_twenty_three_helicop_3bd912",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_recorded_i_ced9f1",
+        "to": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_recorded_i_ced9f1",
+        "to": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_recorded_i_ced9f1",
+        "to": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_recorded_i_ced9f1",
+        "to": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba_radiation_epilation_b057f8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_recorded_i_ced9f1",
+        "to": "cash_landrum_ufo_inc_db9d45_secret_aircraft_theo_cabae6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_recorded_i_ced9f1",
+        "to": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_bergstrom_recorded_i_ced9f1",
+        "to": "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db",
+        "to": "cash_landrum_ufo_inc_db9d45_administrative_claim_4bc9ad",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db",
+        "to": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db",
+        "to": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db",
+        "to": "cash_landrum_ufo_inc_db9d45_schuessler_case_buil_d5b36a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db",
+        "to": "cash_landrum_ufo_inc_db9d45_radiation_sickness_c_5b60f3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db",
+        "to": "cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db",
+        "to": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db",
+        "to": "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_cash_hospital_record_019b0f",
+        "to": "cash_landrum_ufo_inc_db9d45_cash_hospital_record_019b0f_cash_alopecia_areata_12a441",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_cash_hospital_record_019b0f",
+        "to": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_cash_hospital_record_019b0f",
+        "to": "cash_landrum_ufo_inc_db9d45",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_cash_hospital_record_019b0f",
+        "to": "cash_landrum_ufo_inc_db9d45_cash_hospital_record_019b0f_cash_cellulitis_diag_433a26",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_cash_hospital_record_019b0f",
+        "to": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_cash_hospital_record_019b0f",
+        "to": "cash_landrum_ufo_inc_db9d45_schuessler_case_buil_d5b36a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_cash_hospital_record_019b0f",
+        "to": "cash_landrum_ufo_inc_db9d45_radiation_sickness_c_5b60f3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_cash_hospital_record_019b0f",
+        "to": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db_cash_hair_skin_injur_484af4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_chinook_formation_cl_8c8e62",
+        "to": "cash_landrum_ufo_inc_db9d45_walker_helicopter_si_ac910f_walker_helicopter_co_4b6c43",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_chinook_formation_cl_8c8e62",
+        "to": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_chinook_formation_cl_8c8e62",
+        "to": "cash_landrum_ufo_inc_db9d45_walker_helicopter_si_ac910f_walker_downward_ligh_6ec7e0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_chinook_formation_cl_8c8e62",
+        "to": "cash_landrum_ufo_inc_db9d45",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_chinook_formation_cl_8c8e62",
+        "to": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_chinook_formation_cl_8c8e62",
+        "to": "cash_landrum_ufo_inc_db9d45_military_ownership_d_e558cd_missing_flight_recor_6747e9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_chinook_formation_cl_8c8e62",
+        "to": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_chinook_formation_cl_8c8e62",
+        "to": "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_court_dismissal_mean_d82e1e",
+        "to": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_court_dismissal_mean_d82e1e",
+        "to": "cash_landrum_ufo_inc_db9d45",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_court_dismissal_mean_d82e1e",
+        "to": "cash_landrum_ufo_inc_db9d45_administrative_claim_4bc9ad",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_court_dismissal_mean_d82e1e",
+        "to": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_court_dismissal_mean_d82e1e",
+        "to": "cash_landrum_ufo_inc_db9d45_federal_lawsuit_stra_9deab6_helicopters_federal_2d778f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_court_dismissal_mean_d82e1e",
+        "to": "cash_landrum_ufo_inc_db9d45_court_dismissal_mean_d82e1e_government_sworn_den_3e96e5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_court_dismissal_mean_d82e1e",
+        "to": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_court_dismissal_mean_d82e1e",
+        "to": "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7",
+        "to": "cash_landrum_ufo_inc_db9d45_betty_cash_testimony_4150db",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7",
+        "to": "cash_landrum_ufo_inc_db9d45_witness_account_chan_33e460_blue_lights_after_hy_a0870d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7",
+        "to": "cash_landrum_ufo_inc_db9d45",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7",
+        "to": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7",
+        "to": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7_downward_flame_limit_e3b4fd",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7",
+        "to": "cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e_missing_plume_ground_6007c9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7",
+        "to": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7_surface_detail_uncer_e61272",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7",
+        "to": "cash_landrum_ufo_inc_db9d45_vickie_landrum_accou_231007",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_federal_lawsuit_stra_9deab6",
+        "to": "cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_federal_lawsuit_stra_9deab6",
+        "to": "cash_landrum_ufo_inc_db9d45_federal_lawsuit_stra_9deab6_helicopters_federal_2d778f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_federal_lawsuit_stra_9deab6",
+        "to": "cash_landrum_ufo_inc_db9d45_hair_loss_alopecia_9e95ba",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_federal_lawsuit_stra_9deab6",
+        "to": "cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "cash_landrum_ufo_inc_db9d45_federal_lawsuit_stra_9deab6",
+        "to": "cash_landrum_ufo_inc_db9d45_lawsuit_proof_limits_46cf1c_federal_ownership_ga_0da1d5",
+        "type": "inline_internal"
+      }
+    ],
+    "related_report_edge_samples": []
+  }
+}

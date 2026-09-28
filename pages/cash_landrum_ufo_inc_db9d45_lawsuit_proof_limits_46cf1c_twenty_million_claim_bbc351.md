@@ -816,7 +816,7 @@ The historical record supports a narrower conclusion. Betty Cash requested $10 m
 2.<a id="endnote-2"></a>
    Source: cufon.org  
    Title: The Ice Documents Press Conference  
-   Link:<a href="https://cufon.org/cufon/presconf.htm" target="_blank" rel="noopener noreferrer nofollow">https://cufon.org/cufon/presconf.htm</a>  
+   Link:<a href="http://web.archive.org/web/20251012031946/http://www.cufon.org/cufon/presconf.htm" target="_blank" rel="noopener noreferrer nofollow">http://web.archive.org/web/20251012031946/http://www.cufon.org/cufon/presconf.htm</a>  
 
 3.<a id="endnote-3"></a>
    Source: cufon.org  

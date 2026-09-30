@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /cash-landrum-ufo-inc-db9d45-flame/
 description: Focused pages that expand on Flame Plume.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: cash_landrum_ufo_inc_db9d45_flame_plume_motion_86663e
 parent_title: Flame Plume | Cash Landrum UFO Incident

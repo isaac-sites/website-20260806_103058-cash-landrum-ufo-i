@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /cash-landrum-ufo-inc-db9d45-chinook/
 description: Focused pages that expand on Helicopters.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: cash_landrum_ufo_inc_db9d45_chinook_formation_cl_8c8e62
 parent_title: Helicopters | Cash Landrum UFO Incident

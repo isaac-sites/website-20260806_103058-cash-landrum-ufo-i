@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /cash-landrum-ufo-inc-db9d45-car-heat/
 description: Focused pages that expand on Heat Claims.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: cash_landrum_ufo_inc_db9d45_car_heat_effects_70a231
 parent_title: Heat Claims | Cash Landrum UFO Incident

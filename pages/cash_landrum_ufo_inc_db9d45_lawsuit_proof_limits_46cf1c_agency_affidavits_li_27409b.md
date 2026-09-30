@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-06 07:03:26'
+last_modified_at: '2026-08-06 07:03:26'
 parent_title: Did the Lawsuit Validate or Debunk the Sighting? | Cash Landrum UFO Incident
 parent_permalink: /legal-myths/
 parent_nav_short_title: Legal Myths

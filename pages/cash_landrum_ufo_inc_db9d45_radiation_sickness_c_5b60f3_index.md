@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /cash-landrum-ufo-inc-db9d45-radiation/
 description: Focused pages that expand on Radiation Claim.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: cash_landrum_ufo_inc_db9d45_radiation_sickness_c_5b60f3
 parent_title: Radiation Claim | Cash Landrum UFO Incident

@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-06 03:20:05'
+last_modified_at: '2026-08-06 03:20:05'
 parent_title: What Do Betty Cash's Medical Records Prove? | Cash Landrum
 parent_permalink: /hospital-records/
 parent_nav_short_title: Hospital Records

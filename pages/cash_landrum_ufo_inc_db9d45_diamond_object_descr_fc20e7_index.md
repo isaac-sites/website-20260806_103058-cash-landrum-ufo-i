@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /cash-landrum-ufo-inc-db9d45-diamond/
 description: Focused pages that expand on The Object.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: cash_landrum_ufo_inc_db9d45_diamond_object_descr_fc20e7
 parent_title: The Object | Cash Landrum UFO Incident

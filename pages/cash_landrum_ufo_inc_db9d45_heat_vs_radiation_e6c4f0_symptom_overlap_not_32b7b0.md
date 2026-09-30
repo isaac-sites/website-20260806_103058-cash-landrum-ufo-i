@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-06 04:14:23'
+last_modified_at: '2026-08-06 04:14:23'
 parent_title: Were the Injuries Caused by Heat Instead? | Cash Landrum UFO Incident
 parent_permalink: /heat-or-radiation/
 parent_nav_short_title: Heat or Radiation

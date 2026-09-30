@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /cash-landrum-ufo-inc-db9d45-lost-car/
 description: Focused pages that expand on The Car.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: cash_landrum_ufo_inc_db9d45_lost_car_evidence_4b0b41
 parent_title: The Car | Cash Landrum UFO Incident

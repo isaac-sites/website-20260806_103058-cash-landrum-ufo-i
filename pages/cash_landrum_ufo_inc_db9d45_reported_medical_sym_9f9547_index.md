@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /cash-landrum-ufo-inc-db9d45-reported/
 description: Focused pages that expand on Reported Symptoms.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: cash_landrum_ufo_inc_db9d45_reported_medical_sym_9f9547
 parent_title: Reported Symptoms | Cash Landrum UFO Incident

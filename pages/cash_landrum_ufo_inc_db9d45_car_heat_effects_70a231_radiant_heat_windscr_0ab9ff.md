@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-06 00:47:28'
+last_modified_at: '2026-08-06 00:47:28'
 parent_title: Could the Reported Heat Have Left Physical Proof? | Cash Landrum
 parent_permalink: /heat-claims/
 parent_nav_short_title: Heat Claims

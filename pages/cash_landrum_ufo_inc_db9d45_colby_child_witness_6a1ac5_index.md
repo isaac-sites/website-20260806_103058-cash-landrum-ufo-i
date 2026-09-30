@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /cash-landrum-ufo-inc-db9d45-colby/
 description: Focused pages that expand on Colby Landrum.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: cash_landrum_ufo_inc_db9d45_colby_child_witness_6a1ac5
 parent_title: Colby Landrum | Cash Landrum UFO Incident

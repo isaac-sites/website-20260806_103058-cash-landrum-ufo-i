@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /cash-landrum-ufo-inc-db9d45-bergstrom/
 description: Focused pages that expand on Bergstrom Interview.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: cash_landrum_ufo_inc_db9d45_bergstrom_recorded_i_ced9f1
 parent_title: Bergstrom Interview | Cash Landrum UFO Incident

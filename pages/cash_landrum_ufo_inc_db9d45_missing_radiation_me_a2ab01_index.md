@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /cash-landrum-ufo-inc-db9d45-missing/
 description: Focused pages that expand on Missing Measurements.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: cash_landrum_ufo_inc_db9d45_missing_radiation_me_a2ab01
 parent_title: Missing Measurements | Cash Landrum UFO Incident

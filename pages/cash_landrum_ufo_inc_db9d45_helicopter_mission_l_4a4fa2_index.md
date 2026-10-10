@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /cash-landrum-ufo-inc-db9d45-helicopter/
 description: Focused pages that expand on Mission Logistics.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: cash_landrum_ufo_inc_db9d45_helicopter_mission_l_4a4fa2
 parent_title: Mission Logistics | Cash Landrum UFO Incident

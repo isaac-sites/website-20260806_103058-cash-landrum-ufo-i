@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /cash-landrum-ufo-inc-db9d45-military/
 description: Focused pages that expand on Military Denials.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: cash_landrum_ufo_inc_db9d45_military_ownership_d_e558cd
 parent_title: Military Denials | Cash Landrum UFO Incident

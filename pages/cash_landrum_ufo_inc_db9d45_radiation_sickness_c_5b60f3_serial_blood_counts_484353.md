@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-06 03:49:45'
+last_modified_at: '2026-08-06 03:49:45'
 parent_title: Was This Really a Case of Radiation Sickness? | Cash Landrum
 parent_permalink: /radiation-claim/
 parent_nav_short_title: Radiation Claim

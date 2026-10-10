@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-06 02:32:19'
+last_modified_at: '2026-08-06 02:32:19'
 parent_title: What the Air Force Interview Actually Recorded | Cash Landrum
 parent_permalink: /bergstrom-interview/
 parent_nav_short_title: Bergstrom Interview

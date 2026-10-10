@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-06 01:22:23'
+last_modified_at: '2026-08-06 01:22:23'
 parent_title: Were Dozens of Chinooks Really Following the Object? | Cash Landrum UFO Incident
 parent_permalink: /helicopters/
 parent_nav_short_title: Helicopters

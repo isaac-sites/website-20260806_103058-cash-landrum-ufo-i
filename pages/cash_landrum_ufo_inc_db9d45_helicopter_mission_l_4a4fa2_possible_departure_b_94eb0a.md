@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-06 01:52:30'
+last_modified_at: '2026-08-06 01:52:30'
 parent_title: What Would a 23 Helicopter Mission Require? | Cash Landrum UFO Incident
 parent_permalink: /mission-logistics/
 parent_nav_short_title: Mission Logistics

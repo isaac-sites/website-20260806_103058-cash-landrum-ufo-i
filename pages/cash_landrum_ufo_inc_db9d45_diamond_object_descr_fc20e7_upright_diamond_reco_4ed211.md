@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-06 00:20:10'
+last_modified_at: '2026-08-06 00:20:10'
 parent_title: What Was the Diamond Shaped Object Supposed to Do? | Cash Landrum UFO Incident
 parent_permalink: /the-object/
 parent_nav_short_title: The Object

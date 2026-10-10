@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /cash-landrum-ufo-inc-db9d45-heat-vs/
 description: Focused pages that expand on Heat or Radiation.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: cash_landrum_ufo_inc_db9d45_heat_vs_radiation_e6c4f0
 parent_title: Heat or Radiation | Cash Landrum UFO Incident

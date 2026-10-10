@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-05 23:31:28'
+last_modified_at: '2026-08-05 23:31:28'
 parent_title: Why Betty Cash Became the Case's Central Witness | Cash Landrum UFO Incident
 parent_permalink: /betty-cash/
 parent_nav_short_title: Betty Cash

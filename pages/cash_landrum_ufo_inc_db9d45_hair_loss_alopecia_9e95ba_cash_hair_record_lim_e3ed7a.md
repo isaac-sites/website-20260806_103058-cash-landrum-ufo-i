@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-06 04:26:07'
+last_modified_at: '2026-08-06 04:26:07'
 parent_title: What Does the Hair Loss Record Really Show? | Cash Landrum
 parent_permalink: /hair-loss/
 parent_nav_short_title: Hair Loss

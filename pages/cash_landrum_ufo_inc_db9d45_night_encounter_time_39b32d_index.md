@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /cash-landrum-ufo-inc-db9d45-night/
 description: Focused pages that expand on Night Timeline.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: cash_landrum_ufo_inc_db9d45_night_encounter_time_39b32d
 parent_title: Night Timeline | Cash Landrum UFO Incident

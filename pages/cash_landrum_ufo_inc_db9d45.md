@@ -1064,7 +1064,7 @@ The most defensible conclusion is that Cash, Landrum and Colby reported an exper
 29.<a id="endnote-29"></a>
    Source: unsolvedreport.com  
    Title: cash landrum incident 1980  
-   Link:<a href="https://www.unsolvedreport.com/en/cash-landrum-incident-1980/" target="_blank" rel="noopener noreferrer nofollow">https://www.unsolvedreport.com/en/cash-landrum-incident-1980/</a>  
+   Link:https://www.unsolvedreport.com/en/cash-landrum-incident-1980/  
 
 ### Additional References
 

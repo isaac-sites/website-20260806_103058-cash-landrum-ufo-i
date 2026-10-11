@@ -410,7 +410,7 @@ The documents confirm that the Air Force:
 
 * received and processed the claims;
 * formally rejected them;
-* considered an administrative appeal;<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irs.gov/irm/part8/irm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irs.gov">[irs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irs.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* considered an administrative appeal;<span class="citation-chip-wrap">[irs.gov]<span class="citation-popover" role="note"><span class="citation-popover-source">irs.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 * upheld the denial; and
 * completed the administrative process before the federal litigation began.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cashlanL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Cufon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">SM The Computer UFO Network</span><span class="citation-popover-snippet">CUFON SM The Computer UFO Network...</span></span></span>
 
@@ -894,7 +894,7 @@ Beyond those procedural facts, the record becomes increasingly opaque. The relea
 
 13.<a id="endnote-13"></a>
    Source: irs.gov  
-   Link:<a href="https://www.irs.gov/irm/part8/irm" target="_blank" rel="noopener noreferrer nofollow">https://www.irs.gov/irm/part8/irm</a>  
+   Link:https://www.irs.gov/irm/part8/irm  
 
 14.<a id="endnote-14"></a>
    Source: fincen.gov  

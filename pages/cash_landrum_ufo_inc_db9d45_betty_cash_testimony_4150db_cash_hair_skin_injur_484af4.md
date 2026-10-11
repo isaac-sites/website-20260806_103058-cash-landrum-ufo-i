@@ -802,7 +802,6 @@ At the same time, the injuries do not resolve the larger question of causation. 
 5.<a id="endnote-5"></a>
    Source: unsolvedreport.com  
    Title: cash landrum incident 1980  
-   Link:https://www.unsolvedreport.com/en/cash-landrum-incident-1980/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum Incident 1980: The UFO That Left Real Burns | Unsolved ReportJune 1, 2026 — CASH-LANDRUM INCIDENT 1980: THE UFO THAT LEFT RE...</p></details>
    Published: June 1, 2026  
 

@@ -837,7 +837,6 @@ At the same time, these symptoms are among the least distinctive medically. Unli
 12.<a id="endnote-12"></a>
    Source: unsolvedreport.com  
    Title: cash landrum incident 1980  
-   Link:https://www.unsolvedreport.com/en/cash-landrum-incident-1980/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum Incident 1980: The UFO That Left Real Burns | Unsolved ReportJune 1, 2026 — CASH-LANDRUM INCIDENT 1980: THE UFO THAT LEFT RE...</p></details>
    Published: June 1, 2026  
 

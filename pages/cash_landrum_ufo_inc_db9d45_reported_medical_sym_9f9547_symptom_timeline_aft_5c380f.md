@@ -855,7 +855,6 @@ This staged progression became an important element in later arguments that the 
 11.<a id="endnote-11"></a>
    Source: unsolvedreport.com  
    Title: cash landrum incident 1980  
-   Link:https://www.unsolvedreport.com/en/cash-landrum-incident-1980/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum Incident 1980: The UFO That Left Real Burns | Unsolved ReportJune 1, 2026 — CASH-LANDRUM INCIDENT 1980: THE UFO THAT LEFT RE...</p></details>
    Published: June 1, 2026  
 

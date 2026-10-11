@@ -838,7 +838,6 @@ For that reason, the Walker sighting is best understood as partial corroboration
 8.<a id="endnote-8"></a>
    Source: unsolvedreport.com  
    Title: cash landrum incident 1980  
-   Link:https://www.unsolvedreport.com/en/cash-landrum-incident-1980/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum Incident 1980: The UFO That Left Real Burns | Unsolved ReportJune 1, 2026 — CASH-LANDRUM INCIDENT 1980: THE UFO THAT LEFT RE...</p></details>
    Published: June 1, 2026  
 

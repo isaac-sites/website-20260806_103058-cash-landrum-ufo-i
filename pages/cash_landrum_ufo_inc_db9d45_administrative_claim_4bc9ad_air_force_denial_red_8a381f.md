@@ -894,7 +894,6 @@ Beyond those procedural facts, the record becomes increasingly opaque. The relea
 
 13.<a id="endnote-13"></a>
    Source: irs.gov  
-   Link:https://www.irs.gov/irm/part8/irm  
 
 14.<a id="endnote-14"></a>
    Source: fincen.gov  
